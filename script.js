@@ -13,7 +13,7 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 window.addEventListener("load", checkboxtest);
-for (i of document.getElementsByTagName("input")){if (i.type=="radio" || i=="checkbox"){
+for (i of document.getElementsByTagName("input")){if (i.type=="radio" || i.type=="checkbox"){
   i.addEventListener("click", checkboxtest); i.addEventListener("keyup", checkboxtest);
 }};
 function checkboxtest(){
