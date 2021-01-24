@@ -64,7 +64,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong(); console.log(randomline.split(" ")[0]);
+       else{postwrong(); console.log(randomline.split(" ")[0])};
      }
    });
   };
