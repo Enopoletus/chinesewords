@@ -2,7 +2,7 @@ window.addEventListener("load", readTextFile);
 const done =[];
 const thetext = [];
 let numright = 0;
-let numwrong 0;
+let numwrong = 0;
 function readTextFile() {
 const xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
