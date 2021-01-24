@@ -15,10 +15,10 @@ xmlhttp.onreadystatechange = function() {
 window.addEventListener("click", checkboxtest);
 window.addEventListener("keyup", checkboxtest);
 function checkboxtest(){
-  if(document.getElementById("inputchars").checked){(document.getElementById("outputchars").remove()};
-  if(document.getElementById("outputchars").checked){(document.getElementById("inputchars").remove()};
-  if(document.getElementById("inputpinyin").checked){(document.getElementById("outputpinyin").remove()};
-  if(document.getElementById("outputpinyin").checked){(document.getElementById("inputpinyin").remove()};
+  if(document.getElementById("inputchars").checked){document.getElementById("outputchars").remove()};
+  if(document.getElementById("outputchars").checked){document.getElementById("inputchars").remove()};
+  if(document.getElementById("inputpinyin").checked){document.getElementById("outputpinyin").remove()};
+  if(document.getElementById("outputpinyin").checked){document.getElementById("inputpinyin").remove()};
   }
 function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
