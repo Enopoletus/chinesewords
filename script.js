@@ -8,8 +8,8 @@ function readTextFile() {
     else if (chinesewordstxt.status == 400) {console.log('There was an error 400');}
     else {console.log('something else other than 200 was returned');};
   };
-xmlhttp.open("GET", location.href, true);
-xmlhttp.send();
+chinesewordstxt.open("GET", location.href, true);
+chinesewordstxt.send();
 };
 function postload(){
   console.log(thetext);
