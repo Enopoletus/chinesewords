@@ -13,9 +13,8 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 window.addEventListener("load", checkboxtest);
-for (let i of document.getElementsByTagName("input")){if (i.type=="radio" || i.type=="checkbox"){
-  i.addEventListener("click", checkboxtest); i.addEventListener("keyup", checkboxtest);
-}};
+window.addEventListener("click", checkboxtest);
+window.addEventListener("keyup", checkboxtest);
 function checkboxtest(){
   for (let i of document.querySelectorAll("form")[0]){i.style.display = "inline";}
   for (let i of document.querySelectorAll("form")[1]){i.style.display = "inline";}
@@ -27,5 +26,5 @@ function checkboxtest(){
 function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
-  document.getElementById("characters").innerHTML = randomline
+  document.getElementById("characters").innerHTML = randomline;
 }
