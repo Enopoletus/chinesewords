@@ -13,5 +13,5 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 function postweb(){
-  console.log(thetext[0].split(";"));
+  console.log(thetext[0].split(/\r?\n/));
 }
