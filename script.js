@@ -11,5 +11,6 @@ chinesewordstxt.open("GET", "chinesewords.txt", true);
 chinesewordstxt.send();
 };
 function postload(){
+  alert("hello");
   console.log(thetext);
 }
