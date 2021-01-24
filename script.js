@@ -14,9 +14,10 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 window.addEventListener("load", checkboxtest);
-document.getElementsByTagName("form")[0].addEventListener("click", checkboxtest);
-document.getElementsByTagName("form")[1].addEventListener("click", checkboxtest);
-
+window.addEventListener("load", evlisttochecks);
+function evlisttochecks(){
+  for(let i of document.getElementsByTagName("input")){if(i.type == "radio" || i.type == "checkbox"){i.addEventListener("click", checkboxtest)}}
+}
 function checkboxtest(){
   for (let i of document.querySelectorAll("form")[0]){i.style.display = "inline";}
   for (let i of document.querySelectorAll("form")[1]){i.style.display = "inline";}
