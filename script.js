@@ -12,6 +12,7 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.open("GET", "chinesewords.txt", true);
   xmlhttp.send();
 }
+window.addEventListener("load", checkboxtest);
 window.addEventListener("click", checkboxtest);
 window.addEventListener("keyup", checkboxtest);
 function checkboxtest(){
