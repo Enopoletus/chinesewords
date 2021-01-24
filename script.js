@@ -1,11 +1,12 @@
 window.addEventListener("load", readTextFile);
+const done =[];
 const thetext = [];
 function readTextFile() {
 const xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
   if (xmlhttp.readyState == XMLHttpRequest.DONE) {
-    if (xmlhttp.status == 200) {thetext.push(xmlhttp.responseText)}
-    else if (xmlhttp.status == 400) {console.log('There was an error 400'); postweb()}
+    if (xmlhttp.status == 200) {thetext.push(xmlhttp.responseText); done.push(1)}
+    else if (xmlhttp.status == 400) {console.log('There was an error 400')}
     else {console.log('something else other than 200 was returned');};
   };
 };
@@ -22,9 +23,17 @@ function checkboxtest(){
   if(document.getElementById("outputchars").checked){document.getElementById("inputchars").style.display = "none";};
   if(document.getElementById("inputpinyin").checked){document.getElementById("outputpinyin").style.display = "none";};
   if(document.getElementById("outputpinyin").checked){document.getElementById("inputpinyin").style.display = "none";};
+  if (done.length > 0){postweb()};
   }
 function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
-  document.getElementById("characters").innerHTML = randomline;
+  if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked)
+  {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split("; ")[1];};
+  if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked == false)
+  {document.getElementById("characters").innerHTML = randomline.split(" ")[0];};
+  if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked == false)
+  {document.getElementById("characters").innerHTML = randomline.split("-")[1].split(" ")[0];};
+  if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked)
+  {document.getElementById("characters").innerHTML = randomline.split("-")[1]};
 }
