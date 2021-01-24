@@ -89,8 +89,8 @@ function postweb(){
   };
 }
 function postenter(){
-  
   postweb();
+  alert("hello");
   numright = numright+1;
   console.log(numright/(numright+numwrong));
 }
