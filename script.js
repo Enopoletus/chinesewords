@@ -29,7 +29,7 @@ function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
   if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split("; ")[1];};
+  {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split(";")[1];};
   if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked == false)
   {document.getElementById("characters").innerHTML = randomline.split(" ")[0];};
   if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked == false)
