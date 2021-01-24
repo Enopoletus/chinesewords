@@ -66,5 +66,23 @@ function postweb(){
      }
    });
   };
+  if(document.getElementById("outputpinyin").checked && document.getElementById("outputchars").checked == false && document.getElementById("outputdefs").checked)
+  {document.getElementById("characters").innerHTML = randomline.split("-")[1];
+   document.getElementById("textbox").addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
+       else{alert("no")};
+     }
+   });
+  };
+  if(document.getElementById("inputchars").checked && document.getElementById("outputpinyin").checked == false && document.getElementById("outputdefs").checked)
+  {document.getElementById("characters").innerHTML = randomline.split("-")[1];
+   document.getElementById("textbox").addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+       if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
+       else{alert("no")};
+     }
+   });
+  };
 }
 function postenter(){alert("yes")}
