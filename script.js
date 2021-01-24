@@ -1,6 +1,8 @@
 window.addEventListener("load", readTextFile);
 const done =[];
 const thetext = [];
+let numright = 0;
+let numwrong 0;
 function readTextFile() {
 const xmlhttp = new XMLHttpRequest();
 xmlhttp.onreadystatechange = function() {
@@ -35,7 +37,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
       if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-      else{alert("no")};
+      else{postwrong()};
      }
    });
   };
@@ -44,7 +46,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
       if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-      else{alert("no"); console.log(randomline.split("-")[1].split(";")[0])};
+      else{postwrong()};
      }
    });
   };
@@ -53,7 +55,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{alert("no")};
+       else{postwrong()};
      }
    });
   };
@@ -62,7 +64,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{alert("no")};
+       else{postwrong()};
      }
    });
   };
@@ -71,7 +73,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-       else{alert("no")};
+       else{postwrong()};
      }
    });
   };
@@ -80,9 +82,17 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{alert("no")};
+       else{postwrong()};
      }
    });
   };
 }
-function postenter(){alert("yes")}
+function postenter(){
+  postweb();
+  numright = numright+1;
+  console.log(numright/(numright+numwrong));
+}
+function postwrong(){
+  numwrong = numwrong+1;
+  console.log(numright/(numright+numwrong));
+}
