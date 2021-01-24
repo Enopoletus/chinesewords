@@ -14,7 +14,9 @@ xmlhttp.onreadystatechange = function() {
 }
 window.addEventListener("click", checkboxtest);
 window.addEventListener("keyup", checkboxtest);
+const temphtml=document.querySelectorAll("html");
 function checkboxtest(){
+  document.querySelectorAll("html") = temphtml;
   if(document.getElementById("inputchars").checked){document.getElementById("outputchars").remove()};
   if(document.getElementById("outputchars").checked){document.getElementById("inputchars").remove()};
   if(document.getElementById("inputpinyin").checked){document.getElementById("outputpinyin").remove()};
