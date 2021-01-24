@@ -49,8 +49,8 @@
 吗 -ma; question p.
 医 -yī; medical
 老 -lǎo; old prefix
-师 -shī; teacher/master
-老师 -lǎoshī; teacher
+师 -shī; teacher/master (character)
+老师 -lǎoshī; teacher (two characters)
 
 话 -huà; language/talk
 电 -diàn; electric
