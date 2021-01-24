@@ -13,5 +13,7 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 function postweb(){
-  console.log(thetext[0].split(/\r?\n/));
+  const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
+  const randomline = lines[Math.floor(Math.random() * lines.length)];
+  document.getElementById("characters").innerHTML = randomline
 }
