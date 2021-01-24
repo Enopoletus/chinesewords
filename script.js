@@ -17,10 +17,10 @@ window.addEventListener("keyup", checkboxtest);
 function checkboxtest(){
   for (i of document.querySelectorAll("form")[0]){i.style.display = "inline";}
   for (i of document.querySelectorAll("form")[1]){i.style.display = "inline";}
-  if(document.getElementById("inputchars").checked){document.getElementById("outputchars").style.display=="none";};
-  if(document.getElementById("outputchars").checked){document.getElementById("inputchars").style.display=="none";};
-  if(document.getElementById("inputpinyin").checked){document.getElementById("outputpinyin").style.display=="none";};
-  if(document.getElementById("outputpinyin").checked){document.getElementById("inputpinyin").style.display=="none";};
+  if(document.getElementById("inputchars").checked){document.getElementById("outputchars").style.display = "none";};
+  if(document.getElementById("outputchars").checked){document.getElementById("inputchars").style.display = "none";};
+  if(document.getElementById("inputpinyin").checked){document.getElementById("outputpinyin").style.display = "none";};
+  if(document.getElementById("outputpinyin").checked){document.getElementById("inputpinyin").style.display = "none";};
   }
 function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
