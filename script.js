@@ -34,7 +34,7 @@ function postweb(){
   {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split(";")[1];
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
-      if(document.getElementById("textbox").value == randomline.split("-")[1].split(" ")[0]){postenter()}
+      if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
       else{alert("no")};
      }
    });
@@ -43,8 +43,8 @@ function postweb(){
   {document.getElementById("characters").innerHTML = randomline.split(" ")[0];
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
-      if(document.getElementById("textbox").value == randomline.split("-")[1].split(" ")[0]){postenter()}
-      else{alert("no"); console.log(randomline.split("-")[1].split(" ")[0])};
+      if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
+      else{alert("no"); console.log(randomline.split("-")[1].split(";")[0])};
      }
    });
   };
