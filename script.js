@@ -10,7 +10,7 @@ xmlhttp.onreadystatechange = function() {
   };
 xmlhttp.open("GET", chinesewords.txt, true);
 xmlhttp.send();
-};
+}};
 postload(){
   console.log(thetext);
 }
