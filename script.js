@@ -13,8 +13,9 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 window.addEventListener("load", checkboxtest);
-window.addEventListener("click", checkboxtest);
-window.addEventListener("keyup", checkboxtest);
+for (i of document.getElementsByTagName("input")){if (i.type=="radio" || i=="checkbox"){
+  i.addEventListener("click", checkboxtest); i.addEventListener("keyup", checkboxtest);
+}};
 function checkboxtest(){
   for (i of document.querySelectorAll("form")[0]){i.style.display = "inline";}
   for (i of document.querySelectorAll("form")[1]){i.style.display = "inline";}
@@ -22,9 +23,11 @@ function checkboxtest(){
   if(document.getElementById("outputchars").checked){document.getElementById("inputchars").style.display = "none";};
   if(document.getElementById("inputpinyin").checked){document.getElementById("outputpinyin").style.display = "none";};
   if(document.getElementById("outputpinyin").checked){document.getElementById("inputpinyin").style.display = "none";};
+  postweb();
   }
 function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
+  if()
   document.getElementById("characters").innerHTML = randomline
 }
