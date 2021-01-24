@@ -88,11 +88,13 @@ function postweb(){
   };
 }
 function postenter(){
+  document.getElementById("textbox").value = "";
   postweb();
   numright = numright+1;
   console.log(numright/(numright+numwrong));
 }
 function postwrong(){
+  document.getElementById("textbox").value = "";
   numwrong = numwrong+1;
   console.log(numright/(numright+numwrong));
 }
