@@ -1,7 +1,8 @@
 window.addEventListener("load", readTextFile);
 function readTextFile() {
+  alert("hello");
   const chinesewordstxt = new XMLHttpRequest();
-  chinesewordstxt.open("GET", "https://enopoletus.github.io/chinesewords/chinesewords.txt", true);
+  chinesewordstxt.open("GET", "chinesewords.txt", true);
   if (chinesewordstxt.readyState == XMLHttpRequest.DONE) {
   if (chinesewordstxt.status == 200) {console.log(chinesewordstxt.responseText)}
     else if (chinesewordstxt.status == 400) {console.log('There was an error 400');}
