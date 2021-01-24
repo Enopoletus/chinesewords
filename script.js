@@ -67,7 +67,7 @@ function postweb(){
    });
   };
   if(document.getElementById("inputpinyin").checked && document.getElementById("outputchars").checked == false && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split(" ")[0];
+  {document.getElementById("characters").innerHTML = randomline.split(";")[1];
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
@@ -76,7 +76,7 @@ function postweb(){
    });
   };
   if(document.getElementById("inputchars").checked && document.getElementById("outputpinyin").checked == false && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split("-")[1].split(";")[0];
+  {document.getElementById("characters").innerHTML = randomline.split(";")[1];
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
