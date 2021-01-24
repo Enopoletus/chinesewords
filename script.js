@@ -89,12 +89,10 @@ function postweb(){
 }
 function postenter(){
   postweb();
-  document.getElementById("textbox").value = "";
   numright = numright+1;
   console.log(numright/(numright+numwrong));
 }
 function postwrong(){
-  document.getElementById("textbox").value = "";
   numwrong = numwrong+1;
   console.log(numright/(numright+numwrong));
 }
