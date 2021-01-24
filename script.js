@@ -83,7 +83,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong(); console.log(randomline.split(" ")[0]); console.log(document.getElementById("textbox").value); console.log(document.getElementById("textbox").value == randomline.split(" ")[0])};
+       else{postwrong();};
      }
    });
   };
@@ -92,8 +92,7 @@ function postenter(){
   postweb();
   numright = numright+1;
   console.log(numright/(numright+numwrong));
+  console.log(numright);
 }
 function postwrong(){
-  numwrong = numwrong+1;
-  console.log(numright/(numright+numwrong));
 }
