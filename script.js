@@ -30,6 +30,7 @@ function checkboxtest(){
   if (done.length > 0){postweb()};
   }
 function postweb(){
+  document.getElementById("textbox").value = "";
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
   if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked)
@@ -88,13 +89,12 @@ function postweb(){
   };
 }
 function postenter(){
-  document.getElementById("textbox").value = "";
+  
   postweb();
   numright = numright+1;
   console.log(numright/(numright+numwrong));
 }
 function postwrong(){
-  document.getElementById("textbox").value = "";
   numwrong = numwrong+1;
   console.log(numright/(numright+numwrong));
 }
