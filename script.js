@@ -14,7 +14,9 @@ xmlhttp.onreadystatechange = function() {
   xmlhttp.send();
 }
 window.addEventListener("load", checkboxtest);
-for (let i of document.getElementsByTagName("input")){i.addEventListener("click", checkboxtest)};
+document.getElementsByTagName("form")[0].addEventListener("click", checkboxtest);
+document.getElementsByTagName("form")[1].addEventListener("click", checkboxtest);
+
 function checkboxtest(){
   for (let i of document.querySelectorAll("form")[0]){i.style.display = "inline";}
   for (let i of document.querySelectorAll("form")[1]){i.style.display = "inline";}
