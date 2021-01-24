@@ -31,11 +31,40 @@ function postweb(){
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
   if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split(";")[1];};
+  {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split(";")[1];
+   document.getElementById("textbox").addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+      if(document.getElementById("textbox").value == randomline.split("-")[1].split(" ")[0]){postenter()}
+      else{alert("no")};
+     }
+   });
+  };
   if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked == false)
-  {document.getElementById("characters").innerHTML = randomline.split(" ")[0];};
+  {document.getElementById("characters").innerHTML = randomline.split(" ")[0];
+   document.getElementById("textbox").addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+      if(document.getElementById("textbox").value == randomline.split("-")[1].split(" ")[0]){postenter()}
+      else{alert("no")};
+     }
+   });
+  };
   if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked == false)
-  {document.getElementById("characters").innerHTML = randomline.split("-")[1].split(" ")[0];};
+  {document.getElementById("characters").innerHTML = randomline.split("-")[1].split(" ")[0];
+   document.getElementById("textbox").addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
+       else{alert("no")};
+     }
+   });
+  };
   if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split("-")[1]};
+  {document.getElementById("characters").innerHTML = randomline.split("-")[1];
+   document.getElementById("textbox").addEventListener("keyup", function(event) {
+     if (event.keyCode === 13) {
+       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
+       else{alert("no")};
+     }
+   });
+  };
 }
+function postenter(){alert("yes")}
