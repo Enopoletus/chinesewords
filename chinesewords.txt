@@ -63,6 +63,10 @@
 号码 -hàomǎ; numbers
 多少 -duōshǎo; what/how many?
 
+人 -rén; man/person
+中 -zhōng; middle
+国 -guó; state
+
 零 -líng; zero
 一 -yī; one
 二 -èr; two
