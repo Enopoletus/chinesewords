@@ -33,7 +33,7 @@ function postweb(){
   document.getElementById("textbox").value = "";
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
-  postweb2(document.getElementById("outputchars").checked==true, document.getElementById("outputpinyin").checked == false, document.getElementById("outputdefs").checked==false,
+  postweb2(document.getElementById("inputchars").checked==true, document.getElementById("outputpinyin").checked == false, document.getElementById("outputdefs").checked==false,
   randomline.split(";")[1],randomline.split(" ")[0]);
 }
 function postweb2(x1,x2,x3,y1,y2){
