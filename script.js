@@ -33,11 +33,12 @@ function postweb(){
   document.getElementById("textbox").value = "";
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
-  postweb2(document.getElementById("inputchars").checked==true, document.getElementById("outputchars").checked == false, document.getElementById("outputdefs").checked==true,
-  randomline.split(";")[1],randomline.split("-")[1].split(";")[0]);
-  postweb2(document.getElementById("inputchars").checked==true, document.getElementById("outputpinyin").checked == false, document.getElementById("outputdefs").checked==true,
+  postweb2(document.getElementById("outputpinyin").checked, document.getElementById("outputdefs").checked, 0==0,
   randomline.split(";")[1],randomline.split(" ")[0]);
-  console.log(randomline.split(";")[1]+"_"+randomline.split(" ")[0]);
+  postweb2(document.getElementById("inputchars").checked, document.getElementById("outputchars").checked == false, document.getElementById("outputdefs").checked,
+  randomline.split(";")[1],randomline.split("-")[1].split(";")[0]);
+  postweb2(document.getElementById("inputchars").checked, document.getElementById("outputpinyin").checked == false, document.getElementById("outputdefs").checked,
+  randomline.split(";")[1],randomline.split(" ")[0]);
 }
 function postweb2(x1,x2,x3,y1,y2){
   if(x1 && x2 && x3)
