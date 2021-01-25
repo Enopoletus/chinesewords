@@ -33,65 +33,6 @@ function postweb(){
   document.getElementById("textbox").value = "";
   const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
   const randomline = lines[Math.floor(Math.random() * lines.length)];
-  if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split(" ")[0]+randomline.split(";")[1];
-   document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13) {
-      event.preventDefault();
-      if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-      else{postwrong();};
-     }
-   });
-  };
-  if(document.getElementById("outputchars").checked && document.getElementById("outputdefs").checked == false)
-  {document.getElementById("characters").innerHTML = randomline.split(" ")[0];
-   document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13) {
-      event.preventDefault();
-      if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-      else{postwrong();};
-     }
-   });
-  };
-  if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked == false)
-  {document.getElementById("characters").innerHTML = randomline.split("-")[1].split(" ")[0];
-   document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13) {
-       event.preventDefault();
-       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong();};
-     }
-   });
-  };
-  if(document.getElementById("outputpinyin").checked && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split("-")[1];
-   document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13) {
-       event.preventDefault();
-       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong();};
-     }
-   });
-  };
-  if(document.getElementById("inputpinyin").checked && document.getElementById("outputchars").checked == false && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split(";")[1];
-   document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13) {
-       event.preventDefault();
-       if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-       else{postwrong();};
-     }
-   });
-  };
-  if(document.getElementById("inputchars").checked && document.getElementById("outputpinyin").checked == false && document.getElementById("outputdefs").checked)
-  {document.getElementById("characters").innerHTML = randomline.split(";")[1];
-   document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13) {
-       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()};
-       console.log(document.getElementById("textbox").value+"_"+randomline.split(" ")[0]);
-     }
-   });
-  };
 }
 function postenter(){
   postweb();
