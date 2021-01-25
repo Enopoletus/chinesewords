@@ -91,11 +91,11 @@ function postweb(){
 function postenter(){
   postweb();
   numright = numright+1;
-  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/(numright+numwrong))*100.toString() +"% right";
+  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(100*numright/(numright+numwrong)).toString() +"% right";
   console.log(numright);
 }
 function postwrong(){
   alert("wrong");
   numwrong = numwrong+1;
-  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/(numright+numwrong))*100.toString() +"% right";
+  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(100*numright/(numright+numwrong)).toString() +"% right";
 }
