@@ -91,8 +91,10 @@ function postweb(){
 function postenter(){
   postweb();
   numright = numright+1;
-  console.log(numright/(numright+numwrong));
+  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/numright+numwrong).toString() +"% right";
   console.log(numright);
 }
 function postwrong(){
+  numwrong = numwrong+1;
+  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/numright+numwrong).toString() +"% right";
 }
