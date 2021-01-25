@@ -42,8 +42,7 @@ function postweb2(x1,x2,x3,y1,y2){
   {document.getElementById("characters").innerHTML = y1;
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13){postenter()};
-     }
-   });
+     });
   };
 }
 function postenter(){
