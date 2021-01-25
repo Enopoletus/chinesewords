@@ -66,6 +66,9 @@
 人 -rén; man/person
 中 -zhōng; middle
 国 -guó; state
+美 -měi; beautiful
+那 -nǎ; which
+英 -yīng; brave
 
 零 -líng; zero
 一 -yī; one
