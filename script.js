@@ -87,9 +87,7 @@ function postweb(){
   {document.getElementById("characters").innerHTML = randomline.split(";")[1];
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
-        event.preventDefault();
-       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong();};
+       if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}};
      }
    });
   };
