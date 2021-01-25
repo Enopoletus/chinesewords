@@ -41,7 +41,7 @@ function postweb(){
   randomline.split("-")[1].split(" ")[0],randomline.split(" ")[0]);
   postweb2(document.getElementById("outputpinyin").checked, document.getElementById("outputdefs").checked, 0==0,
   randomline.split("-")[1],randomline.split(" ")[0]);
-  postweb2(document.getElementById("inputchars").checked, document.getElementById("outputchars").checked == false, document.getElementById("outputdefs").checked,
+  postweb2(document.getElementById("inputpinyin").checked, document.getElementById("outputchars").checked == false, document.getElementById("outputdefs").checked,
   randomline.split(";")[1],randomline.split("-")[1].split(";")[0]);
   postweb2(document.getElementById("inputchars").checked, document.getElementById("outputpinyin").checked == false, document.getElementById("outputdefs").checked,
   randomline.split(";")[1],randomline.split(" ")[0]);
