@@ -44,7 +44,8 @@ function postweb2(x1,x2,x3,y1,y2){
   if(x1 && x2 && x3)
   {document.getElementById("characters").innerHTML = y1;
    document.getElementById("textbox").addEventListener("keyup", function(event) {
-     if (event.keyCode === 13){postenter()};
+     if (event.keyCode === 13){if(document.getElementById("textbox").value == y2){postenter()}
+     };
      });
   };
 }
