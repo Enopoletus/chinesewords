@@ -38,7 +38,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
       if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-      else{postwrong(); console.log(randomline.split("-")[1].split(";")[0])};
+      else{postwrong();};
      }
    });
   };
@@ -47,7 +47,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
       if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-      else{postwrong(); console.log(randomline.split("-")[1].split(";")[0])};
+      else{postwrong();};
      }
    });
   };
@@ -56,7 +56,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong(); console.log(randomline.split(" ")[0])};
+       else{postwrong();};
      }
    });
   };
@@ -65,7 +65,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split(" ")[0]){postenter()}
-       else{postwrong(); console.log(randomline.split(" ")[0])};
+       else{postwrong();};
      }
    });
   };
@@ -74,7 +74,7 @@ function postweb(){
    document.getElementById("textbox").addEventListener("keyup", function(event) {
      if (event.keyCode === 13) {
        if(document.getElementById("textbox").value == randomline.split("-")[1].split(";")[0]){postenter()}
-       else{postwrong(); console.log(randomline.split("-")[1].split(";")[0])};
+       else{postwrong();};
      }
    });
   };
@@ -91,10 +91,11 @@ function postweb(){
 function postenter(){
   postweb();
   numright = numright+1;
-  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/numright+numwrong).toString() +"% right";
+  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/(numright+numwrong))*100.toString() +"% right";
   console.log(numright);
 }
 function postwrong(){
+  alert("wrong");
   numwrong = numwrong+1;
-  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/numright+numwrong).toString() +"% right";
+  document.getElementById("scoring").innerHTML = numright.toString()+" right/"+numwrong.toString()+" wrong "+(numright/(numright+numwrong))*100.toString() +"% right";
 }
