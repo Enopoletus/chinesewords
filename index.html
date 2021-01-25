@@ -2,10 +2,11 @@
 <html>
 <head>
 <title>App for learning Chinese</title>
-  <script src="script.js"></script>
+<script src="script.js"></script>
+<link rel="stylesheet" type="text/css" href="https://enopoletus.github.io/style.css">
 <style>
 #characters {
-font-size: 15px;
+font-size: 20px;
 }
 </style>
 </head>
@@ -13,17 +14,19 @@ font-size: 15px;
 <br>
 <input type="text" id="textbox">
 <form>
-<input type="radio" id="inputchars" name="input">
-<label for="inputchars">Input characters</label>
-<input type="radio" id="inputpinyin" name="input">
-<label for="inputpinyin">Input pinyin</label>
+<input type = "radio" id="inputchars" name="input">
+<label for = "inputchars">Input characters</label>
+<input type = "radio" id="inputpinyin" name="input">
+<label for = "inputpinyin">Input pinyin</label>
 </form>
 <form>
-<input type="checkbox" id="outputchars">
+<input type = "checkbox" id = "outputchars">
 <label for="outputchars">Show characters</label>
-<input type="checkbox" id="outputpinyin">
-<label for="outputpinyin">Show pinyin</label>
-<input type="checkbox" id="outputdefs">
-<label for="outputdefs">Show definitions</label>
+<input type = "checkbox" id = "outputpinyin">
+<label for = "outputpinyin">Show pinyin</label>
+<input type = "checkbox" id = "outputdefs">
+<label for = "outputdefs">Show definitions</label>
 </form>
+<div id = "scoring"></div>
+<div id ="timer"></div>
 </html>
