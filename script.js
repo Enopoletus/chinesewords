@@ -78,21 +78,18 @@
             score();
         }
     }
-
     function postenter() {
         document.getElementById("result").textContent = "right!";
         numright += 1;
         postweb();
     }
-
     function postwrong() {
         document.getElementById("result").textContent = "wrong";
         numwrong += 1;
         alert("wrong");
     }
-
     function score() {
-        let percentScore = (100 * numright / (numright + numwrong));
+        let percentScore = (100 * numright / (numright + numwrong)).toFixed(3);
         document.getElementById("scoring").textContent = `${numright} right/${numwrong} wrong ${percentScore}% right`;
     }
 
