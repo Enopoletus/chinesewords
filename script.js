@@ -62,12 +62,10 @@
         }}
         theindex = findindex();
         const randomline = lines[theindex];
-        console.log(randomline);
         const chars = randomline.split(" ")[0];
         const pinyin = randomline.split("-")[1].split(";")[0];
         const pinyinDefs = randomline.split("-")[1];
         const defs = randomline.split("; ")[1];
-
         postweb2(document.getElementById("outputchars").checked, document.getElementById("outputdefs").checked, 0 == 0,
             chars + defs, pinyin);
         postweb2(document.getElementById("outputchars").checked, document.getElementById("outputdefs").checked == false, 0 == 0,
