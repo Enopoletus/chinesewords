@@ -92,12 +92,10 @@
         }
     }
     function postenter() {
-        document.getElementById("result").textContent = "right!";
         numright += 1;
         postweb();
     }
     function postwrong() {
-        document.getElementById("result").textContent = "wrong";
         numwrong += 1;
         alert("wrong");
     }
