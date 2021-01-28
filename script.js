@@ -20,7 +20,7 @@
         const xmlhttp = new XMLHttpRequest();
         xmlhttp.onreadystatechange = function () {
             if (xmlhttp.readyState == XMLHttpRequest.DONE) {
-                if (xmlhttp.status == 200) { thetext.push(xmlhttp.responseText); done.push(1) }
+                if (xmlhttp.status == 200) { thetext.push(xmlhttp.responseText); done.push(1); linecreate() }
                 else if (xmlhttp.status == 400) { console.log('There was an error 400') }
                 else { console.log('something else other than 200 was returned'); };
             };
@@ -28,8 +28,10 @@
         //xmlhttp.open("GET", "chinesewords.txt", true);
         xmlhttp.open("GET", "https://raw.githubusercontent.com/Enopoletus/chinesewords/gh-pages/chinesewords.txt", true);
         xmlhttp.send();
-        const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
-        for (i of lines){weights.push(1); console.log(weights)};
+        function linecreate(){
+          const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
+          for (i of lines){weights.push(1); console.log(weights)};
+        }
     }
 
     window.addEventListener("load", evListToChecks);
