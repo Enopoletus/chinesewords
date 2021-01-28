@@ -96,7 +96,7 @@
     function postenter() {
         numright += 1;
         weights[theindex] = weights[theindex]/2; 
-        weights[theindex] = weights[theindex]*(document.getElementById("timer").innerText/2);
+        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/2);
         console.log(weights);
         postweb();
     }
