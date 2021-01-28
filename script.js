@@ -6,6 +6,7 @@
     //REVISED BY "NICK" AT DATA SECRETS LOX
     let _answer = "";
     const weights =[];
+    let theindex = 1;
     
     window.addEventListener("load", timer);
     function timer(){
@@ -56,7 +57,8 @@
     function postweb() {
         document.getElementById("textbox").value = "";
         const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
-        const randomline = lines[Math.floor(Math.random() * lines.length)];
+        theindex = Math.floor(Math.random() * lines.length)
+        const randomline = lines[theindex];
 
         const chars = randomline.split(" ")[0];
         const pinyin = randomline.split("-")[1].split(";")[0];
@@ -83,20 +85,23 @@
             _answer = answer;
         };
     }
-    window.addEventListener("load", function(){
-    document.getElementById("textbox").addEventListener("keyup", checkAnswer);})
+    window.addEventListener("load", function(){document.getElementById("textbox").addEventListener("keyup", checkAnswer);});
     function checkAnswer(event) {
         if (event.keyCode === 13) {
-            if (document.getElementById("textbox").value == _answer) { postenter(); } else { postwrong(); };
+            if (document.getElementById("textbox").value == _answer) { postenter();} 
+            else { postwrong();};
+            console.log(weights);
             score();
         }
     }
     function postenter() {
         numright += 1;
+        weights[theindex] = weights[theindex]/2; 
         postweb();
     }
     function postwrong() {
         numwrong += 1;
+        weights[theindex] = weights[theindex]*2; 
         alert("wrong");
     }
     function score() {
