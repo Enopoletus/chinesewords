@@ -5,6 +5,7 @@
     let numwrong = 0;
     //REVISED BY "NICK" AT DATA SECRETS LOX
     let _answer = "";
+    const weights =[];
 
     window.addEventListener("load", readTextFile);
     function readTextFile() {
@@ -19,6 +20,8 @@
         //xmlhttp.open("GET", "chinesewords.txt", true);
         xmlhttp.open("GET", "https://raw.githubusercontent.com/Enopoletus/chinesewords/gh-pages/chinesewords.txt", true);
         xmlhttp.send();
+        const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
+        for (i of lines){weights.push(1); console.log(weights)};
     }
 
     window.addEventListener("load", evListToChecks);
