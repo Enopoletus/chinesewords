@@ -46,7 +46,6 @@
         if (document.getElementById("outputchars").checked) { document.getElementById("inputchars").style.display = "none"; };
         if (document.getElementById("inputpinyin").checked) { document.getElementById("outputpinyin").style.display = "none"; };
         if (document.getElementById("outputpinyin").checked) { document.getElementById("inputpinyin").style.display = "none"; };
-
         if (done.length > 0) { postweb() };
     }
     function postweb() {
@@ -63,7 +62,7 @@
         }}
         theindex = findindex();
         const randomline = lines[theindex];
-        
+        console.log(randomline);
         const chars = randomline.split(" ")[0];
         const pinyin = randomline.split("-")[1].split(";")[0];
         const pinyinDefs = randomline.split("-")[1];
