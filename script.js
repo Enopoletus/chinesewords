@@ -59,7 +59,7 @@
         let sum = 0;
         function findindex() {for (let i=0; i<weights.length; i++) {
           sum += weights[i];
-          if (sum >= threshold) {
+          if (sum > threshold) {
             return i;
           }
         }}
