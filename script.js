@@ -57,7 +57,7 @@
         const threshold = Math.random()*total;
         console.log(threshold);
         let sum = 0;
-        function findindex() {for (let i of weights) {
+        function findindex() {for (let i=0; i<weights.length; i++) {
           sum += weights[i];
           if (sum >= threshold) {
             return i;
