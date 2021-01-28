@@ -31,7 +31,7 @@
         for (let i of document.getElementsByTagName("input")) { if (i.type == "radio" || i.type == "checkbox") { i.addEventListener("click", checkboxTest) } }
     }
     window.addEventListener("load", stoptimefunction);
-    function stoptimefunction(){document.getElementbyId("stoptime").addEventListener("click", stoptimefunctiontwo)};
+    function stoptimefunction(){document.getElementById("stoptime").addEventListener("click", stoptimefunctiontwo)};
     function stoptimefunctiontwo(){clearInterval(intervalId);};
     window.addEventListener("load", checkboxTest);
     function checkboxTest() {
