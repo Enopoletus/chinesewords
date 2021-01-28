@@ -30,7 +30,7 @@
         xmlhttp.send();
         function linecreate(){
           const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
-          for (i of lines){weights.push(1); console.log(weights)};
+          for (i of lines){weights.push(1)};
         }
     }
 
