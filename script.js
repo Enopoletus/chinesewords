@@ -12,7 +12,7 @@
       let start = Date.now();
       setInterval(function() {
         let delta = Date.now() - start; // milliseconds elapsed since start
-        document.getElementById("timer").innerText = Math.floor(delta / 1000)); // in seconds
+        document.getElementById("timer").innerText = Math.floor(delta / 1000); // in seconds
       }, 1000); // update about every second
     }
     window.addEventListener("load", readTextFile);
