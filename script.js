@@ -7,6 +7,7 @@
     let _answer = "";
     const weights =[];
     let theindex = 1;
+    let intervalId = "";
     window.addEventListener("load", readTextFile);
     function readTextFile() {
         const xmlhttp = new XMLHttpRequest();
@@ -41,6 +42,7 @@
         if (done.length > 0) { postweb() };
     }
     function postweb() {
+        clearInterval(intervalId);
         timer();
         document.getElementById("textbox").value = "";
         const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
@@ -74,7 +76,7 @@
     }
     function timer(){
       let start = Date.now();
-      setInterval(function() {
+      intervalId = setInterval(function() {
         let delta = Date.now() - start; // milliseconds elapsed since start
         document.getElementById("timer").innerText = (delta / 1000).toFixed(6); // in seconds
       }, 1000); // update about every second
