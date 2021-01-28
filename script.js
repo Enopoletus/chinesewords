@@ -53,9 +53,7 @@
         document.getElementById("textbox").value = "";
         const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
         const total = weights.reduce(function(x,y){return x+y}, 0);
-        console.log(total);
         const threshold = Math.random()*total;
-        console.log(threshold);
         let sum = 0;
         function findindex() {for (let i=0; i<weights.length; i++) {
           sum += weights[i];
@@ -64,9 +62,7 @@
           }
         }}
         theindex = findindex();
-        console.log(theindex);
         const randomline = lines[theindex];
-        console.log(randomline);
         const chars = randomline.split(" ")[0];
         const pinyin = randomline.split("-")[1].split(";")[0];
         const pinyinDefs = randomline.split("-")[1];
