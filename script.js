@@ -63,6 +63,7 @@
         }}
         theindex = findindex();
         const randomline = lines[theindex];
+        
         const chars = randomline.split(" ")[0];
         const pinyin = randomline.split("-")[1].split(";")[0];
         const pinyinDefs = randomline.split("-")[1];
