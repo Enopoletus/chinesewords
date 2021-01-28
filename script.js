@@ -91,7 +91,6 @@
         if (event.keyCode === 13) {
             if (document.getElementById("textbox").value == _answer) { postenter();} 
             else { postwrong();};
-            console.log(weights);
             score();
         }
     }
@@ -102,7 +101,7 @@
     }
     function postwrong() {
         numwrong += 1;
-        weights[theindex] = weights[theindex]*2; 
+        weights[theindex] = weights[theindex]*4; 
         alert("wrong");
     }
     function score() {
