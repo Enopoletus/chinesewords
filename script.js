@@ -78,7 +78,7 @@
       let start = Date.now();
       intervalId = setInterval(function() {
         let delta = Date.now() - start; // milliseconds elapsed since start
-        document.getElementById("timer").innerText = (delta / 1000).toFixed(6); // in seconds
+        document.getElementById("timer").innerText = (delta / 1000).toFixed(3); // in seconds
       }, 1000); // update about every second
     }
     function postweb2(x1, x2, x3, y1, answer) {
