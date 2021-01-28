@@ -83,8 +83,8 @@
             _answer = answer;
         };
     }
-
-    document.getElementById("textbox").addEventListener("keyup", checkAnswer);
+    window.addEventListener("load", function(){
+    document.getElementById("textbox").addEventListener("keyup", checkAnswer);})
     function checkAnswer(event) {
         if (event.keyCode === 13) {
             if (document.getElementById("textbox").value == _answer) { postenter(); } else { postwrong(); };
