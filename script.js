@@ -7,14 +7,6 @@
     let _answer = "";
     const weights =[];
     let theindex = 1;
-    window.addEventListener("load", timer);
-    function timer(){
-      let start = Date.now();
-      setInterval(function() {
-        let delta = Date.now() - start; // milliseconds elapsed since start
-        document.getElementById("timer").innerText = Math.floor(delta / 1000); // in seconds
-      }, 1000); // update about every second
-    }
     window.addEventListener("load", readTextFile);
     function readTextFile() {
         const xmlhttp = new XMLHttpRequest();
@@ -49,6 +41,7 @@
         if (done.length > 0) { postweb() };
     }
     function postweb() {
+        timer();
         document.getElementById("textbox").value = "";
         const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
         const total = weights.reduce(function(x,y){return x+y}, 0);
@@ -79,7 +72,13 @@
         postweb2(document.getElementById("inputchars").checked, document.getElementById("outputpinyin").checked == false, document.getElementById("outputdefs").checked,
             defs, chars);
     }
-
+    function timer(){
+      let start = Date.now();
+      setInterval(function() {
+        let delta = Date.now() - start; // milliseconds elapsed since start
+        document.getElementById("timer").innerText = (delta / 1000).tofixed(6); // in seconds
+      }, 1000); // update about every second
+    }
     function postweb2(x1, x2, x3, y1, answer) {
         if (x1 && x2 && x3) {
             document.getElementById("characters").textContent = y1;
@@ -97,6 +96,8 @@
     function postenter() {
         numright += 1;
         weights[theindex] = weights[theindex]/2; 
+        weights[theindex] = weights[theindex]*((document.getElementById("timer").innerText/2);
+        console.log(weights);
         postweb();
     }
     function postwrong() {
