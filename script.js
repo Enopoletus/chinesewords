@@ -53,7 +53,9 @@
         document.getElementById("textbox").value = "";
         const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
         const total = weights.reduce(function(x,y){return x+y}, 0);
+        console.log(total);
         const threshold = Math.random()*total;
+        console.log(threshold);
         let sum = 0;
         function findindex() {for (let i of weights) {
           sum += weights[i];
