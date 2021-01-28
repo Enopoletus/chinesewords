@@ -7,7 +7,6 @@
     let _answer = "";
     const weights =[];
     let theindex = 1;
-    
     window.addEventListener("load", timer);
     function timer(){
       let start = Date.now();
@@ -34,13 +33,10 @@
           for (i of lines){weights.push(1)};
         }
     }
-
     window.addEventListener("load", evListToChecks);
-
     function evListToChecks() {
         for (let i of document.getElementsByTagName("input")) { if (i.type == "radio" || i.type == "checkbox") { i.addEventListener("click", checkboxTest) } }
     }
-
     window.addEventListener("load", checkboxTest);
     function checkboxTest() {
         for (let el of document.querySelectorAll("form")[0]) { el.style.display = "inline"; }
@@ -53,13 +49,20 @@
 
         if (done.length > 0) { postweb() };
     }
-
     function postweb() {
         document.getElementById("textbox").value = "";
         const lines = thetext[0].split(/\r?\n/).filter(word => word.length > 2);
-        theindex = Math.floor(Math.random() * lines.length)
+        const total = weights.reduce(function(x,y){return x+y}, 0);
+        const threshold = Math.random()*total;
+        let sum = 0;
+        function findindex() {for (let i of weights) {
+          sum += weights[i];
+          if (sum >= threshold) {
+            return i;
+          }
+        }}
+        theindex = findindex();
         const randomline = lines[theindex];
-
         const chars = randomline.split(" ")[0];
         const pinyin = randomline.split("-")[1].split(";")[0];
         const pinyinDefs = randomline.split("-")[1];
