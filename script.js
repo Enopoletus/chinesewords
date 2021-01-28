@@ -6,7 +6,15 @@
     //REVISED BY "NICK" AT DATA SECRETS LOX
     let _answer = "";
     const weights =[];
-
+    
+    window.addEventListener("load", timer);
+    function timer(){
+      let start = Date.now();
+      setInterval(function() {
+        let delta = Date.now() - start; // milliseconds elapsed since start
+        document.getElementById("timer").innerText = Math.floor(delta / 1000)); // in seconds
+      }, 1000); // update about every second
+    }
     window.addEventListener("load", readTextFile);
     function readTextFile() {
         const xmlhttp = new XMLHttpRequest();
