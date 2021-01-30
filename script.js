@@ -101,7 +101,7 @@
     function postenter() {
         numright += 1;
         weights[theindex] = weights[theindex]/2; 
-        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/8);
+        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/5);
         console.log(weights);
         postweb();
     }
