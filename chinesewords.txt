@@ -115,15 +115,19 @@
 家 -jiā; home
 京 -jīng; capital
 儿 -er; son/where
-港 -gǎng; Kong
-香 -xiǎng; Hong
-约 -yuē; York
-纽 -niǔ; New
-湾 -wān;
-伦 -lún; 
+港 -gǎng; harbor
+香 -xiǎng; fragrant
+约 -yuē; appointment/to invite
+纽 -niǔ; knot/button/knob
+湾 -wān; bay/gulf
+伦 -lún; human relationship
 住 -zhù; lives
-敦 -dūn;
-台 -tái;
+敦 -dūn; kindhearted
+台 -tái; platform
+伦敦 -lúndūn; London
+台湾 -niǔyuē; New York
+香港 -xiǎnggǎng; Hong Kong
+台湾 -táiwān; Taiwan
 
 
 
