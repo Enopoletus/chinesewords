@@ -114,6 +114,7 @@
 北 -běi; North
 家 -jiā; home
 京 -jīng; capital
+南 -nán; South
 儿 -er; son
 哪儿 -nǎer; where?
 港 -gǎng; harbor
@@ -141,6 +142,7 @@
 没 -méi; not
 没关系 -méiguānxì; no problem
 对不起 -duìbùqǐ; Sorry!
+
 
 
 
