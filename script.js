@@ -82,7 +82,7 @@
       intervalId = setInterval(function() {
         let delta = Date.now() - start; // milliseconds elapsed since start
         document.getElementById("timer").innerText = (delta / 1000).toFixed(3); // in seconds
-      }, 1000); // update about every second
+      }, 100); // update about every second
     }
     function postweb2(x1, x2, x3, y1, answer) {
         if (x1 && x2 && x3) {
