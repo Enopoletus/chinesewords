@@ -93,7 +93,7 @@
 样 -yàng; manner
 天 -tiān; day/heaven
 怎 -zěn; how
-今 -jīn; today/now 
+今 -jīn; today/now (one character)
 今天 -jīntiān; this day
 
 零 -líng; zero
@@ -112,7 +112,7 @@
 元 -yuán; Yuan
 
 北 -běi; North
-家 -jiā; home
+家 -jiā; home/family
 京 -jīng; capital
 南 -nán; South
 儿 -er; son
