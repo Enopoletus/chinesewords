@@ -87,7 +87,7 @@
 在 -zài; in
 
 早 -zǎo; early/morning (1 character)
-上 -shàng; above/top
+上 -shàng; above/top/previous
 早上 -zǎoshàng; morning (2 characters)
 忙 -máng; busy
 样 -yàng; manner
@@ -153,11 +153,32 @@
 第 -dì; ordinal number
 课 -kè; subject/lesson
 节 -jié; festival
-上节 -shàngjié; previous
+节课 -jiékè; class
 了 -le; completed action p.
 问 -wèn; to ask
 别 -bié; another/must not
+还 -hái; still/yet/to return
 
+记 -jì; to record/remember/mark
+得 -de; complement p. (V + X. + Adverb)
+说 -shuō; to speak/say
+这 -zhè; "this"
+来 -lái; to come/let's
+习 -xí; study/habit
+年 -nián; year
+龄 -líng; ageing
+希 -xī; hope/rare
+望 -wàng; to gaze/hope
+能 -néng; to be able to
+到 -dào; to arrive/until (time)
+些 -xiē; some/a few
+实 -shí; real/honest
+用 -yòng; to use
+口 -kǒu; mouth
+
+语 -yǔ; language/speech
+表 -biǎo; exterior surface
+达 -dá; to reach
 
 
 
