@@ -202,3 +202,7 @@
 水獭 -shuǐtǎ; water otter
 旱 -hàn; dry
 旱獭 -hàntǎ; dry otter
+松 -sōng; loose/lax/pine
+鼠 -shǔ; mouse
+大鼠 -dàshǔ; rat
+松鼠 -sōngshǔ; squirrel
