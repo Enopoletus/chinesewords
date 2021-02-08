@@ -197,3 +197,7 @@
 礼 -lǐ; gift/ceremony
 貌 -mào; appearance
 礼貌 -lǐmào; manners/courtesy (two characters)
+
+獭 -tǎ; otter
+水獭 -shuǐtǎ; water otter
+旱獭 -hàntǎ; dry otter
