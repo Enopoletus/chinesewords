@@ -119,6 +119,7 @@
 哪儿 -nǎer; where?
 港 -gǎng; harbor
 香 -xiǎng; fragrant
+
 约 -yuē; appointment/to invite
 纽 -niǔ; knot/button/knob
 湾 -wān; bay/gulf
@@ -130,6 +131,9 @@
 纽约 -niǔyuē; New York
 香港 -xiǎnggǎng; Hong Kong
 台湾 -táiwān; Taiwan
+新加坡 -Xīnjiāpō; Singapore
+新 -xīn; new
+坡 -pō; slope
 
 气 -qì; air
 客 -kè; customer/guest
