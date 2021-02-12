@@ -134,6 +134,9 @@
 新加坡 -Xīnjiāpō; Singapore
 新 -xīn; new
 坡 -pō; slope
+印 -yìn; seal
+度 -dù; degree
+印度 -Yìndù; India
 
 气 -qì; air
 客 -kè; customer/guest
@@ -153,7 +156,7 @@
 语 -yǔ; language/speech
 汉 -hàn; Han (people)
 日 -rì; sun/day
-常 -cháng; always/general
+常 -cháng; always/general (character)
 第 -dì; ordinal number
 课 -kè; subject/lesson
 节 -jié; festival
@@ -207,7 +210,7 @@
 小 -Xiǎo; small (personal name)
 你今年多大; nǐ jīn nián duō dà; how many years old are you today?
 
-獭 -tǎ; otter
+獭 -tǎ; otter (character)
 水獭 -shuǐtǎ; water otter
 旱 -hàn; dry
 旱獭 -hàntǎ; dry otter
@@ -220,3 +223,23 @@
 大熊猫 -dàxióngmāo; giant panda
 龙 -lóng; dragon
 猪 -zhū; pig
+狗 -gǒu; dog
+狼 -láng; wolf
+
+蛙 -wā; frog
+蟾 -chán; toad
+蜥 -xī; lizard (character)
+蜴 -yì; chameleon (character)
+蜥蜴 -xīyì; lizard (two characters)
+鹿 -lù; deer
+浣 -huàn; wash
+浣熊 -huànxióng; raccoon
+
+日本 -Rìběn; Japan
+日 -rì; day/sun
+本 -běn; this/origin
+俄 -é; Russian (character)
+罗 -luō; net for catching birds (character)/family name
+斯 -sī; whereas/such
+俄罗斯 -Èluósī; Russia
+
