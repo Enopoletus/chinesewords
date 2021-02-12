@@ -17,7 +17,7 @@
 明 -Míng; bright, personal name
 见 -jiàn; to see/meet (in goodbye)
 再 -zài; again/then (in goodbye)
-华 -Huá; splendid, "Mandarin", personal name
+华 -Huá; splendid, Chinese, personal name
 很 -hěn; very, "is/are"
 高 -gāo; high
 兴 -xīng; to rise/flourish 
@@ -184,7 +184,7 @@
 口 -kǒu; mouth
 
 语 -yǔ; language/speech
-表 -biǎo; exterior surface
+表 -biǎo; exterior surface/table
 达 -dá; to reach
 吧 -ba; ...right?
 始 -shǐ; to begin
@@ -242,4 +242,12 @@
 罗 -luō; net for catching birds (character)/family name
 斯 -sī; whereas/such
 俄罗斯 -Èluósī; Russia
+
+肯 -kěn; willing
+讲 -jiǎng; speak/lecture
+请 -qǐng; to invite/"please"
+女 -nǚ; female (character)
+心 -xīn; heart
+意 -yì; idea/meaning
+心意 -xīnyì; mind
 
