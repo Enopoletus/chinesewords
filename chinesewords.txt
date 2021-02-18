@@ -296,4 +296,5 @@
 平 -píng; flat
 平常 -píngcháng; usually (two chars)
 教 -jiào; to teach
-些 -xiē; some/few
+些 -xiē; some/few (character)
+一些 -yīxiē; some (two characters)
