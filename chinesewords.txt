@@ -100,6 +100,7 @@
 一 -yī; one (normal)
 幺 -yāo; one (serial)
 二 -èr; two
+两 -liǎng; two (used with measure word)
 三 -sān; three
 四 -sì; four
 五 -wǔ; five
@@ -291,4 +292,5 @@
 猜 -cāi; picture
 看图猜 -kàntúcāi; charades (three characters)
 但 -dàn; but/yet
-其 -qí; its
+其 -qí; its/his/hers/they/that/this
+
