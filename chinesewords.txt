@@ -179,7 +179,7 @@
 望 -wàng; to gaze/hope
 能 -néng; to be able to
 到 -dào; to arrive/until (time)
-些 -xiē; some/a few
+些 -xiē; some/a few (character)
 实 -shí; real/honest
 用 -yòng; to use
 口 -kǒu; mouth
@@ -296,5 +296,4 @@
 平 -píng; flat
 平常 -píngcháng; usually (two chars)
 教 -jiào; to teach
-些 -xiē; some/few (character)
 一些 -yīxiē; some (two characters)
