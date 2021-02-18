@@ -294,4 +294,6 @@
 但 -dàn; but/yet
 其 -qí; its/his/hers/they/that/this
 平 -píng; flat
-平常 -píngcháng; usually
+平常 -píngcháng; usually (two chars)
+教 -jiào; to teach
+些 -xiē; some/few
