@@ -252,6 +252,8 @@
 亚 -yà; Asia/inferior/second
 韩国 -Hánguó; Korea
 韩 -hán; Korean
+省 -shěng; province
+东 -dōng; East
 
 肯 -kěn; willing
 讲 -jiǎng; speak/lecture
