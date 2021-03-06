@@ -361,3 +361,6 @@
 疫 -yì; epidemic
 着 -zhe; touch/ignite
 找 -zhǎo; find
+闻 -wén; story/smell/famous
+网 -wǎng; network/site
+新闻 -xīnwén; news/tidings (two chars)
