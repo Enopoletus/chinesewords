@@ -336,7 +336,6 @@
 恒河 -hénghé; Ganges
 河 -hé; river (ordinary/foreign)
 恒 -héng; permanent
-黄 -huáng; yellow
 长 -cháng; long
 江 -jiāng; river (mighty/Korean)
 
@@ -371,3 +370,8 @@
 正 -zhèng; upright/proper
 真 -zhēn; true
 止 -zhǐ; only/stop/till
+
+红 -hóng; red
+橙 -chéng; orange
+黄 -huáng; yellow
+绿 -lǜ; green
