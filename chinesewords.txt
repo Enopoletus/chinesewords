@@ -369,3 +369,4 @@
 行 -xíng; row/behavior/travel/professional
 事 -shì; thing/situation
 正 -zhèng; upright/proper
+真 -zhēn; true
