@@ -376,3 +376,4 @@
 黄 -huáng; yellow
 绿 -lǜ; green
 只 -zhǐ; only/but
+目 -mú; eye/item/list
