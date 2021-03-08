@@ -387,4 +387,8 @@
 山 -shān; mountain
 乌 -wū; crow/raven
 温 -wēn; temperature/warm/revise
-州 -zhōu; state/proüince
+州 -zhōu; state/province
+
+民主 -mínzhǔ; democracy
+主 -zhǔ; primary/lord
+自由 -zìyóu; free
