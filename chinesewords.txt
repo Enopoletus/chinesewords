@@ -395,8 +395,10 @@
 自 -zì; from/since/self/certainly
 由 -yóu; by/from
 厂 -chǎng; factory/slope
+央 -yāng; central/beg
 视 -shì; depending on/regard/look at/inspect
 晚 -wǎn; late
+全 -quán; whole
 各 -gè; each
 地 -de; ground
 收 -shōu; recieve/stop
@@ -404,3 +406,9 @@
 布 -bù; cloth/fabric/spread
 图 -tú; figure/seek
 率 -lǜ; frequency/lead/hasty
+
+春晚 -chūnwǎn; Spring Festival Gala
+央视 -yāngshì; CCTV
+各地 -gèdì; various regions
+收视 -shōushì; ratings
+分布 -fēnbù; distributed (two characters)
