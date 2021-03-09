@@ -415,3 +415,6 @@
 品 -pǐn; article/grade/savor/pinkish
 小品 -xiǎopǐn; sketch
 饺 -jiǎo; dumpling
+鹅 -é; goose
+鸭 -yā; duck
+猴 -hóu; monkey
