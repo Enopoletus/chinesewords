@@ -453,3 +453,6 @@
 级 -jí; class/grade
 下 -xià; under/second
 册 -cè; volume
+铁路 -tiělù; railroad
+铁 -tiě; iron
+路 -lù; road
