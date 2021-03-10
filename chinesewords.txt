@@ -428,3 +428,5 @@
 告 -gào; inform
 诉 -sù; complain/state
 告诉 -gàosù; tell (two chars)
+爸爸 -bàba; papa
+妈妈 -māma; mama
