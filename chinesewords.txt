@@ -449,3 +449,4 @@
 
 德 -dé; ethics/Germany
 法 -fǎ; law/France
+法治 -fǎzhì; rule of law
