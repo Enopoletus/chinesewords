@@ -433,3 +433,8 @@
 父 -fù; father
 母 -mǔ; mother
 父母 -fùmǔ; parents
+
+田 -tián; field/farm
+区 -qū; area/region (character)
+地区 -dìqū; region (two characters)
+和田 -Héitián; Hotan
