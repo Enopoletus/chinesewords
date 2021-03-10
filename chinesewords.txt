@@ -425,3 +425,6 @@
 谁 -shéi; who
 员 -yuán; member
 表达 -biǎodá; to express (two chars)
+告 -gào; inform
+诉 -sù; complain/state
+告诉 -gàosù; tell (two chars)
