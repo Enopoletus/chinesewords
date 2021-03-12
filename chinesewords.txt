@@ -6,18 +6,18 @@
 字 -zì; word/character
 名字 -míngzì; name (two characters)
 叫 -jiáo; to call
-李 -Lǐ; plum, personal name
+李 -lǐ; plum, personal name
 呢 -ne; how about...?
 你 -nǐ; you
 好 -hǎo; good
 你好 -nǐhǎo; hello
-王 -Wáng; king, personal name
+王 -wáng; king, personal name
 姓 -xìng; last name
-张 -Zhāng; sheets, personal name
-明 -Míng; bright, personal name
+张 -zhāng; sheets, personal name
+明 -míng; bright, personal name
 见 -jiàn; to see/meet (in goodbye)
 再 -zài; again/then (in goodbye)
-华 -Huá; splendid, Chinese, personal name
+华 -huá; splendid, Chinese, personal name
 很 -hěn; very, "is/are"
 高 -gāo; high
 兴 -xīng; to rise/flourish 
@@ -495,3 +495,4 @@
 小康 -xiǎokāng; moderately prosperous
 社 -shè; society (character)
 社会 -shèhuì; society (two characters)
+工 -gōng; work
