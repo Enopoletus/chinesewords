@@ -532,3 +532,5 @@
 尔 -ěr; thou/thus
 维吾尔 -wéiwú'ěr; Uyghur
 药 -yào; medicine
+
+友 -yǒu; friendly
