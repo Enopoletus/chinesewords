@@ -553,3 +553,5 @@
 水平 -shuǐpíng; level/standard
 老百姓 -lǎobǎixìng; commoners
 夜 -yè; night
+未 -wèi; not/have not
+末 -mò; end
