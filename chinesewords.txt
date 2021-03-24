@@ -591,3 +591,5 @@
 部 -bù; unit
 外交 -wàijiāo; diplomatic
 嗯 -n; ok/hum!
+拼 -pīn; spell
+音 -yīn; sound
