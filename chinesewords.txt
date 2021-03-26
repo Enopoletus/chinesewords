@@ -607,3 +607,6 @@
 近 -jìn; near/easy
 词 -cí; word/statement
 动 -dòng; move
+游 -yóu; tour
+泳 -yǒng; swimming (1 char)
+游泳 yóuyǒng; swim (2 chars)
