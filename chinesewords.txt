@@ -371,7 +371,7 @@
 新闻 -xīnwén; news/tidings (two chars)
 者 -zhě; one who (is)
 治 -zhì; to govern/solve
-行 -xíng; row/behavior/travel/professional
+行 -xíng; row/behavior/travel/professional/OK
 事 -shì; thing/situation
 正 -zhèng; upright/proper
 真 -zhēn; true
