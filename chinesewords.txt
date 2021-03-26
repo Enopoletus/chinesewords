@@ -610,3 +610,5 @@
 游 -yóu; tour
 泳 -yǒng; swimming (1 char)
 游泳 yóuyǒng; swim (2 chars)
+
+去 -qù; go
