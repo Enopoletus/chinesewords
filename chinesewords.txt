@@ -642,4 +642,7 @@
 我要走 -wǒ yào zǒu; I want to go
 走 -zǒu; go
 我上北京 -wǒ shàng Běijīng; I go to Beijing
-你多喒起身 -nǐ duō zá qǐshēn; when do you start?
+你多咱起身 -nǐ duō zán qǐshēn; when do you set out?
+起身 -qǐshēn; set out
+身 -shēn; body/life/m.w. for clothes
+咱 -zán; we/us
