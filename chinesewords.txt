@@ -87,7 +87,7 @@
 在 -zài; in
 
 早 -zǎo; early/morning (1 character)
-上 -shàng; above/top/previous
+上 -shàng; above/top/previous/go
 早上 -zǎoshàng; morning (2 characters)
 忙 -máng; busy
 样 -yàng; manner
@@ -641,3 +641,4 @@
 快快 -kuài kuài; make haste
 我要走 -wǒ yào zǒu; I want to go
 走 -zǒu; go
+我上北京 -wǒ shàng Běijīng; I go to Beijing
