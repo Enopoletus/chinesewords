@@ -637,6 +637,7 @@
 骂 -mǎ; curse/scold
 读 -dú; read/study
 跏 -jiā; sit cross-legged
+
 这儿来 -zhè'er lái; come here
 快 -kuài; quick
 快快 -kuài kuài; make haste
@@ -654,3 +655,5 @@
 户 -hù; household/door
 船户要多少钱 -chuánhù yào duōshǎo qián; how much money does the shipowner want
 钱 -qián; money
+
+推 -tuī; push/refuse/choose
