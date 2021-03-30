@@ -68,7 +68,7 @@
 多少 -duōshǎo; what/how many?
 
 人 -rén; man/person
-中 -zhōng; middle
+中 -zhōng; middle/in
 国 -guó; state
 美 -měi; beautiful
 哪 -nǎ; which
@@ -674,3 +674,5 @@
 匹 -pǐ; bolt of cloth/m.w. for horses
 买 -mǎi; buy
 倒 -dào; fall/inverted
+抗 -kàng; anti-
+菌 -jūn; bacteria/mold
