@@ -741,14 +741,14 @@
 
 月 -yuè; month/moon
 版 -bǎn; version/edition/print
-出版 -chūbǎn; publish (two chars)
+出版 -chūbǎn; publish (books) (two chars)
 期 -qī; period/scheduled time/alloted
 求是 -qiúshì; request what is/seek truth
 杂志 -zázhì; magazine
 杂 -zá; miscellaneous
 志 -zhì; record
 将 -jiāng; will
-发表 -fābiǎo; publish/promulgate (two chars)
+发表 -fābiǎo; publish (articles) (two chars)
 席 -xí; seat/banquet
 主席 -zhǔxí; president
 军 -jūn; military
