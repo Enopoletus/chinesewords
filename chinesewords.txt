@@ -734,3 +734,4 @@
 界 -jiè; world/border/circles/group
 验 -yàn; verify
 难 -nán; difficulty/scold
+群 -qún; flock
