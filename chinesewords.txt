@@ -732,3 +732,4 @@
 众 -zhòng; crowd/multitudinous
 世 -shì; world/generation
 界 -jiè; world/border/circles/group
+验 -yàn; verify
