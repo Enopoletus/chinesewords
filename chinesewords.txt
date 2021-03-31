@@ -744,3 +744,6 @@
 出版 -chūbǎn; publish (two chars)
 期 -qī; period/scheduled time/alloted
 求是 -qiúshì; request what is/seek truth
+杂志 -zázhì; magazine
+杂 -zá; miscellaneous
+志 -zhì; record
