@@ -769,3 +769,5 @@
 放 -fàng; release/place/rest
 开放 -kāifàng; opening up
 知识 -zhīshì; knowledge (two chars)
+及 -jí; and/reach/come up/in time
+普及 -pǔjì; disseminate
