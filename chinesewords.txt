@@ -757,3 +757,4 @@
 
 要文 -zhòngyào; important
 文章 -wénzhāng; article
+章 -zhāng; chapter/section/seal/badge/rule
