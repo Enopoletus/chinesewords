@@ -743,3 +743,4 @@
 版 -bǎn; version/edition/print
 出版 -chūbǎn; publish (two chars)
 期 -qī; period/scheduled time/alloted
+求是 -qiúshì; request what is/seek truth
