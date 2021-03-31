@@ -728,7 +728,7 @@
 想 -xiǎng; want/would like
 而 -ér; and/while/but/yet
 创 -chuàng; create/begin/wound
-马 -mǎ; horse/st
+马 -mǎ; horse/21st
 众 -zhòng; crowd/multitudinous
 世 -shì; world/generation
 界 -jiè; world/border/circles/group
@@ -740,3 +740,5 @@
 程 -chéng; journey/sequence/regulations/rule
 
 月 -yuè; month/moon
+版 -bǎn; version/edition/print
+出版 -chūbǎn; publish (two chars)
