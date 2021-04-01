@@ -701,6 +701,8 @@
 笔 -bǐ; pen
 墨 -mò; ink
 太 -tài; overly
+知道 -zhīdào; know (two chars)
+我不知道 -wǒ bù zhīdào; I do not know
 
 推 -tuī; push/refuse/choose
 火车 -huǒchē; train
