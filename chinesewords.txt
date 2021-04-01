@@ -662,6 +662,11 @@
 你雇了车没有 -nǐ gùle chē méiyǒu; have you hired your carts?
 我不能等 -wǒ bùnéng děng; I can't wait
 我坐船 -wǒ zuò chuán; I ride by boat
+牲 -shēng; sacrifice/domesticated animal
+牲口 -shēngkǒu; livestock
+你的牲口不好 -nǐ de shēngkǒu bù hǎo; your animals are bad
+窗户 -chuānghù; window (two chars)
+窗 -chuāng; window (character)
 
 推 -tuī; push/refuse/choose
 火车 -huǒchē; train
