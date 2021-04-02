@@ -857,3 +857,6 @@
 
 几 -jǐ; how many
 卖 -mài; sell
+地方 -dìfāng; local/place
+这个地方 -zhège dìfāng; this place
+本地 -běndì; local
