@@ -849,3 +849,4 @@
 里头 -lǐtou; inside (two chars)
 昨 -zuó; yesterday
 边 -biān; side/edge/rim
+懂 -dǒng; to understand
