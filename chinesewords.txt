@@ -754,7 +754,7 @@
 坚 -jiān; strong/stronghold/firm
 
 结 -jié; knot/bear/form
-作 -zuò; make/pretend/feel/rise/writing
+作 -zuò; make/pretend/feel/rise/writing (not verb, just a character)
 斗 -dòu; fight
 伟 -wěi; great
 导 -dǎo; guide/instruct
@@ -852,3 +852,4 @@
 懂 -dǒng; to understand
 我看不见 -wǒ kàn bùjiàn; I can't see
 做 -zuò; work/make/perpetrate/produce
+你能做不能做 -nǐ néng zuò bùnéng zuò; can you do it or not
