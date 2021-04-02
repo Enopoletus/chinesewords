@@ -15,7 +15,7 @@
 姓 -xìng; last name
 张 -zhāng; sheets, personal name
 明 -míng; bright/understand/dynastic name
-见 -jiàn; to see/meet (in goodbye)
+见 -jiàn; to see/meet/percieve (in goodbye)
 再 -zài; again/then (in goodbye)
 华 -huá; splendid, Chinese, personal name
 很 -hěn; very, "is/are"
@@ -850,3 +850,4 @@
 昨 -zuó; yesterday
 边 -biān; side/edge/rim
 懂 -dǒng; to understand
+我看不见 -wǒ kàn bùjiàn; I can't see
