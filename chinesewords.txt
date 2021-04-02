@@ -853,4 +853,6 @@
 我看不见 -wǒ kàn bùjiàn; I can't see
 做 -zuò; work/make/perpetrate/produce
 你能做不能做 -nǐ néng zuò bùnéng zuò; can you do it or not
-回 -huí; return/curüe/maneuver; m.w. for time
+回 -huí; return/curve/maneuver; m.w. for time
+
+几 -jǐ; how many
