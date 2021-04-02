@@ -222,7 +222,10 @@
 獭 -tǎ; otter (character)
 水獭 -shuǐtǎ; water otter
 旱 -hàn; dry
-旱獭 -hàntǎ; dry otter
+旱獭 -hàntǎ; marmot
+土拨鼠 -tǔbōshǔ; groundhog
+土 -tǔ; earth/dust
+拨 -bō; stir/dial/assign
 松 -sōng; loose/lax/pine
 鼠 -shǔ; mouse
 大鼠 -dàshǔ; rat
