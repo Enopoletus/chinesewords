@@ -815,17 +815,17 @@
 动员 -dòngyuán; mobilization
 讲话 -jiǎnghuà; address
 樱 -yīng; cherry
-改 -gǎi; revise
-改革 -gǎigé; reform
+改 -gǎi; revise (1 char)
+改革 -gǎigé; reform (2 chars)
 放 -fàng; release/place/rest
 开放 -kāifàng; opening up
 知识 -zhīshì; knowledge (two chars)
 及 -jí; and/reach/come up/in time
-普及 -pǔjì; disseminate
+普及 -pǔjì; disseminate (2 chars)
 基 -jī; base/root/cardinal
 层 -céng; layer/floor
-群众 -qúnzhòng; masses
-基层 -jīcéng; lowest level
+群众 -qúnzhòng; masses (2 chars)
+基层 -jīcéng; lowest level (2 chars)
 
 去过 -qùguò; have you been to/you have been to
 寄 -jì; send/mail/attach
