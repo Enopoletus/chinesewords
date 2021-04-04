@@ -801,7 +801,7 @@
 将 -jiāng; will
 发表 -fābiǎo; publish (articles) (two chars)
 席 -xí; seat/banquet
-主席 -zhǔxí; president
+主席 -zhǔxí; president/chairman
 军 -jūn; military
 委 -wěi; appoint/indirect/listless/withered/throw away/actually
 委员会 -wěiyuánhuì; commission
@@ -892,3 +892,4 @@
 运 -yùn; transport/ship/luck/destiny
 抵 -dǐ; reach/resist/discharge/push/prop/equal
 间 -jiān; between/among/divide/room/apartment/measure word for rooms
+总统 -zǒngtǒng; president
