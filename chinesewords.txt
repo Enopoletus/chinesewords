@@ -862,7 +862,7 @@
 卖 -mài; sell
 地方 -dìfāng; local/place
 这个地方 -zhège dìfāng; this place
-本地 -běndì; local
+本地 -běndì; local (when there)
 听 -tīng; to hear/tin
 不必 -bùbì; it is not necessarily so
 自治 -zìzhì; autonomous
@@ -879,5 +879,5 @@
 牢 -láo; prison/firm
 牢记 -láojì; keep in mind
 使命 -shǐmìng; mission
-当地 -dāngdì; local (as in local time)
+当地 -dāngdì; local (when not there)
 时间 -shíjiān; time
