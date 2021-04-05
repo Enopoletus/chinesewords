@@ -926,3 +926,7 @@
 病毒 -bìngdú; virus
 慰问 -wèiwèn; condolences
 慰 -wèi; comfort/console/relieve
+早日 -zǎorì; speedy (two chars)
+康 -kāng; peaceful/spongy
+复 -fù; resume
+康复 -kāngfù; recovery
