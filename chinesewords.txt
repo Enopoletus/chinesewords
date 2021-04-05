@@ -918,3 +918,10 @@
 阿 -ā; prefix for names
 巴基斯坦 -Bājīsītǎn; Pakistan
 坦 -tǎn; calm/frank/candid
+染 -rǎn; contaminate/acquire/dye/soil
+感染 -gǎnrǎn; infected
+冠 -guān; corona
+病 -bìng; disease
+毒 -dú; poison
+病毒 -bìngdú; virus
+慰问 -wèiwèn; condolences
