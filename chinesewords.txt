@@ -930,3 +930,5 @@
 康 -kāng; peaceful/spongy
 复 -fù; resume
 康复 -kāngfù; recovery
+
+宫 -gōng; palace
