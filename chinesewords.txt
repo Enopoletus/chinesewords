@@ -925,3 +925,4 @@
 毒 -dú; poison
 病毒 -bìngdú; virus
 慰问 -wèiwèn; condolences
+慰 -wèi; comfort/console/relieve
