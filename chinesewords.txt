@@ -952,5 +952,8 @@
 访谈 -fǎngtán; interview
 常规 -chángguī; conventional (2 chars)
 公共 -gōnggòng; public (2 chars)
-卫 -wèi; guard
-卫生 -wèishēng; health
+卫 -wèi; guard (1 char)
+卫生 -wèishēng; health (2 chars)
+措 -cuò; arrange/execute (character)
+施 -shī; apply/impose (1 char)
+措施 -cuòshī; measures
