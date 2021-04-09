@@ -967,3 +967,6 @@
 城 -chéng; city (not shi)
 不管 -bùguǎn; regardless of
 封城 -fēngchéng; lockdown
+检 -jiǎn; check/examine (character)
+测 -cè; measure/survey/fathom
+检测 -jiǎncè; test/detection (2 chars)
