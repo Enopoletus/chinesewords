@@ -173,7 +173,7 @@
 了 -le; completed action p.
 问 -wèn; to ask
 别 -bié; another/must not
-还 -hái; still/yet/to return/or
+还 -hái; still/yet/to return
 
 记 -jì; to record/remember/mark
 得 -de; complement p. (V + X. + Adverb)
@@ -970,3 +970,4 @@
 检 -jiǎn; check/examine (character)
 测 -cè; measure/survey/fathom
 检测 -jiǎncè; test/detection (2 chars)
+还是 -háishì; or/still/nevertheless
