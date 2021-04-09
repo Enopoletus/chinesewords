@@ -101,13 +101,13 @@
     function postenter(xx) {
         numright += 1;
         weights[theindex] = weights[theindex]/2; 
-        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/(5*xx.length));
+        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/(3*xx.length));
         console.log(weights);
         postweb();
     }
     function postwrong() {
         numwrong += 1;
-        weights[theindex] = weights[theindex]*4; 
+        weights[theindex] = weights[theindex]*14; 
         alert("wrong");
     }
     function score() {
