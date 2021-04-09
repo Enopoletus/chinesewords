@@ -93,15 +93,15 @@
     window.addEventListener("load", function(){document.getElementById("textbox").addEventListener("keyup", checkAnswer);});
     function checkAnswer(event) {
         if (event.keyCode === 13) {
-            if (document.getElementById("textbox").value == _answer) { postenter();} 
+            if (document.getElementById("textbox").value == _answer) { postenter(_answer);} 
             else { postwrong();};
             score();
         }
     }
-    function postenter() {
+    function postenter(_answer) {
         numright += 1;
         weights[theindex] = weights[theindex]/2; 
-        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/5);
+        weights[theindex] = weights[theindex]*((Number(document.getElementById("timer").innerText)/5)/_answer.length);
         console.log(weights);
         postweb();
     }
