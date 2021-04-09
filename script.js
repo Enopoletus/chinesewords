@@ -98,10 +98,10 @@
             score();
         }
     }
-    function postenter(_answer) {
+    function postenter(xx) {
         numright += 1;
         weights[theindex] = weights[theindex]/2; 
-        weights[theindex] = weights[theindex]*((Number(document.getElementById("timer").innerText)/5)/_answer.length);
+        weights[theindex] = weights[theindex]*(Number(document.getElementById("timer").innerText)/(5*xx.length));
         console.log(weights);
         postweb();
     }
