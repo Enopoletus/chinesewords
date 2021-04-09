@@ -941,7 +941,7 @@
 于 -yú; regarding
 啦 -la; final particle
 爵 -jué; nobility
-封 -fēng; grant
+封 -fēng; grant/seal/envelop
 点 -diǎn; point (character)
 敬 -jìng; respectfully
 注 -zhù; note/inject/concentrate
@@ -965,3 +965,5 @@
 必要 -bìyào; necessary (2 chars)
 很有 -hěnyǒu; very (2 chars)
 城 -chéng; city (not shi)
+不管 -bùguǎn; regardless of
+封城 -fēngchéng; lockdown
