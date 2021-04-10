@@ -567,7 +567,7 @@
 为 -wèi; for/be/serve as/become
 要 -yào; want/important
 需 -xū; need
-完 -wán; finish
+完 -wán; finish/complete
 悲 -bēi; sad (character)
 
 备 -bèi; prepare/fully/equipment
@@ -1010,3 +1010,6 @@
 成员 -chéngyuán; members (2 chars)
 只要 -zhǐyào; as long as (2 chars)
 跟 -gēn; with/towards/and
+完全 -wánquán; completely (2 chars)
+隔绝 -géjué; isolated
+世界 -shìjiè; world
