@@ -1011,5 +1011,7 @@
 只要 -zhǐyào; as long as (2 chars)
 跟 -gēn; with/towards/and
 完全 -wánquán; completely (2 chars)
-隔绝 -géjué; isolated
-世界 -shìjiè; world
+隔绝 -géjué; isolated (2 chars)
+世界 -shìjiè; world (2 characters)
+隔 -gé; partition/separate (character)
+绝 -jué; absolutely/cut off/desparate (character)
