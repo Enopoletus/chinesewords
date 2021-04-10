@@ -434,7 +434,7 @@
 庭 -tíng; court
 
 谁 -shéi; who
-员 -yuán; member
+员 -yuán; member (character)
 表达 -biǎodá; to express (two chars)
 告 -gào; inform
 诉 -sù; complain/state
@@ -1007,3 +1007,4 @@
 本人 -běnrén; personally
 等于 -děngyú; be equal
 家庭 -jiātíng; household (2 chars)
+成员 -chéngyuán; members (2 chars)
