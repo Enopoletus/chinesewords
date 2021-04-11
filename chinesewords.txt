@@ -1016,3 +1016,5 @@
 隔 -gé; partition/separate (character)
 绝 -jué; absolutely/cut off/desparate (character)
 事情 -shìqíng; situation (2 chars)
+
+因为 -yīnwèi; because (2 chars)
