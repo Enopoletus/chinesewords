@@ -1029,5 +1029,7 @@
 免疫 -miǎnyì; immunization
 药品 -yàopǐn; medicine
 
-流行 -liúxíng; prevalent
+流行 -liúxíng; prevalent/epidemic
 流 -liú; flow/stream (character)
+疾 -jí; disease/hardships/quick/hate (character)
+疾病 -jíbìng; disease (2 chars)
