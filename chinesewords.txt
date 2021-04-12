@@ -990,3 +990,5 @@
 传 -chuán; pass/transmit (character)
 传统 -chuántǒng; traditional
 灭 -miè; exterminate
+活 -huó; life/work/save/moveable
+灭活 -mièhuó; inactivated
