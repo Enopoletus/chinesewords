@@ -26,7 +26,6 @@
 认 -rèn; to recognize (character)
 认识 -rènshí; to meet (two characters)
 也 -yě; also, always comes before adjective
-
 鱼 -yú; fish
 面 -miàn; side/aspect/noodles
 饭 -fàn; food/meal/rice
@@ -35,7 +34,6 @@
 喝 -hē; to drink
 不 -bù; no/not
 水 -shuǐ; water/liquid
-
 学 -xué; to learn
 生 -shēng; life/raw
 医生 -yīshēng; doctor
@@ -52,7 +50,6 @@
 老 -lǎo; old prefix
 师 -shī; teacher/master (character)
 老师 -lǎoshī; teacher (two characters)
-
 话 -huà; language/talk
 电 -diàn; electric
 的 -de; possessive p.
@@ -66,7 +63,6 @@
 号 -hào; number (one character)
 号码 -hàomǎ; number (two characters)
 多少 -duōshǎo; what/how many?
-
 人 -rén; man/person
 中 -zhōng; middle/in
 国 -guó; state
@@ -86,7 +82,6 @@
 都不 -dōubù; none of them
 入 -rù; to enter
 在 -zài; in
-
 早 -zǎo; early/morning (1 character)
 上 -shàng; above/top/previous/go
 早上 -zǎoshàng; morning (2 characters)
@@ -96,7 +91,6 @@
 怎 -zěn; how
 今 -jīn; today/now (one character)
 今天 -jīntiān; this day
-
 零 -líng; zero
 一 -yī; one (normal)
 幺 -yāo; one (serial)
@@ -115,7 +109,6 @@
 万 -wàn; ten thousand
 億 -yì; billion
 元 -yuán; Yuan
-
 北 -běi; North
 家 -jiā; home/family
 京 -jīng; capital
@@ -128,7 +121,6 @@
 台北市 -Táiběi shì; Taipei City
 邑 -yì; city/village/capital
 首 -shǒu; first/head/measure word for poems
-
 约 -yuē; appointment/to invite
 纽 -niǔ; knot/button/knob
 湾 -wān; bay/gulf
@@ -146,7 +138,6 @@
 印 -yìn; seal
 度 -dù; degree
 印度 -Yìndù; India
-
 气 -qì; air
 客 -kè; customer/guest
 谢 -xiè; to thank
@@ -158,7 +149,6 @@
 没 -méi; not (not bù)
 没关系 -méiguānxì; no problem
 对不起 -duìbùqǐ; Sorry!
-
 豆 -dòu; bean
 大家好 -dà jiā hǎo; "hello, everyone."
 天天 -tiāntiān; "daily"
@@ -174,7 +164,6 @@
 问 -wèn; to ask
 别 -bié; another/must not
 还 -hái; still/yet/to return
-
 记 -jì; to record/remember/mark
 得 -de; complement p. (V + X. + Adverb)
 说 -shuō; to speak/say
@@ -191,7 +180,6 @@
 实 -shí; real/honest
 用 -yòng; to use
 口 -kǒu; mouth
-
 语 -yǔ; language/speech
 表 -biǎo; exterior surface/table
 达 -dá; to reach
@@ -208,7 +196,6 @@
 般 -bān; sort/kind
 一般 -yībān; generally
 会 -huì; can/will/to know/meeting
-
 让 -ràng; to allow/passive p.
 觉 -jué; to feel
 礼 -lǐ; gift/ceremony
@@ -218,7 +205,6 @@
 你是哪年的; nǐ shì nǎ nián de; what year were you born?
 小 -xiǎo; small (personal name)
 你今年多大; nǐ jīn nián duō dà; how many years old are you today?
-
 獭 -tǎ; otter (character)
 水獭 -shuǐtǎ; water otter
 旱 -hàn; dry
@@ -237,7 +223,6 @@
 猪 -zhū; pig
 狗 -gǒu; dog
 狼 -láng; wolf
-
 蛙 -wā; frog
 蟾 -chán; toad
 蜥 -xī; lizard (character)
@@ -249,7 +234,6 @@
 袋鼠 -dàishǔ; kangaroo
 袋 -dài; pouch
 羊 -yáng; sheep
-
 日本 -Rìběn; Japan
 日 -rì; day/sun
 本 -běn; this/origin
@@ -266,7 +250,6 @@
 韩 -hán; Korean
 省 -shěng; province
 东 -dōng; East
-
 肯 -kěn; willing
 讲 -jiǎng; speak/lecture
 请 -qǐng; to invite/"please"
@@ -284,7 +267,6 @@
 所 -suǒ; actually/place
 有 -yǒu; to have/there is
 所有 -suǒyǒu; all/own
-
 送 -sòng; send/deliver
 给 -gěi; to give; for/passive p.
 新 -xīn; new
@@ -300,7 +282,6 @@
 玩 -wán; play
 看 -kàn; look/see
 图 -tú; diagram/map
-
 成语 -chéngyǔ; idiom (two characters)
 游 -yóu; to swim/travel
 戏 -xì; drama/trick
@@ -317,7 +298,6 @@
 比 -bǐ; comparison p., ratio
 如 -rú; such as/as/if/according to
 比如 -bǐrú; for example
-
 模 -mó; to imitate/mold
 乱 -luàn; messy/disorder
 糟 -zāo; dregs/spoil
@@ -333,7 +313,6 @@
 通过 -tōngguò; passed/via (two characters)
 族 -zù; clan/race
 通 -tōng; through/connect
-
 民 -mín; people/nation
 共 -gòng; total
 和 -hé; with/harmonious/mix
@@ -348,7 +327,6 @@
 恒 -héng; permanent
 长 -cháng; long
 江 -jiāng; river (mighty/Korean)
-
 长江 -Chángjiāng; long river
 扬子 -Yángzǐ; Yangtze
 扬 -yáng; young
@@ -364,7 +342,6 @@
 输 -shū; lose/transport/remove
 输入 -shūrù; type
 可以 -kěyǐ; can/may (two characters)
-
 疫苗 -yìmiáo; vaccine
 苗 -miáo; seedling/vaccine
 疫 -yì; epidemic (character)
@@ -380,12 +357,10 @@
 正 -zhèng; upright/proper
 真 -zhēn; true
 止 -zhǐ; only/stop/till
-
 红 -hóng; red
 橙 -chéng; orange
 黄 -huáng; yellow
 绿 -lǜ; green
-
 只 -zhǐ; only/but
 目 -mú; eye/item/list
 强 -qiáng; strength/power/better
@@ -398,7 +373,6 @@
 乌 -wū; crow/raven
 温 -wēn; temperature/warm/revise
 州 -zhōu; state/province
-
 民主 -mínzhǔ; democracy
 主 -zhǔ; primary/lord
 自由 -zìyóu; free
@@ -416,7 +390,6 @@
 布 -bù; cloth/fabric/spread
 图 -tú; figure/seek
 率 -lǜ; frequency/lead/hasty
-
 春晚 -chūnwǎn; Spring Festival Gala
 央视 -yāngshì; CCTV
 各地 -gèdì; each region
@@ -432,7 +405,6 @@
 鹦 -yīng; parrot
 安 -ān; quiet/safe/install/harbor
 庭 -tíng; court
-
 谁 -shéi; who
 员 -yuán; member (character)
 表达 -biǎodá; to express (two chars)
@@ -444,7 +416,6 @@
 父 -fù; father
 母 -mǔ; mother
 父母 -fùmǔ; parents
-
 田 -tián; field/farm
 区 -qū; area/region (character)
 地区 -dìqū; region (two characters)
@@ -457,7 +428,6 @@
 誓师 -shìshī; vow before one's troops
 大会 -dàhuì; general assembly
 与 -yǔ; and/vs./give
-
 德 -dé; ethics/Germany
 法 -fǎ; law/France
 法治 -fǎzhì; rule of law
@@ -471,7 +441,6 @@
 梦 -mèng; dream
 负 -fù; negative
 责 -zé; duty
-
 星 -xīng; star/satellite/small amount
 测 -cè; measurement
 保 -bǎo; protect
@@ -483,7 +452,6 @@
 确 -què; truly
 讯 -xùn; news/fast
 试 -shì; test
-
 宋 -sòng; Song (dynasty)
 代 -dài; generation/substitute
 当 -dāng; be/equal
@@ -496,7 +464,6 @@
 奏 -zòu; perform
 欧 -ōu; Europe
 司 -sī; division/department/manage
-
 馆 -guǎn; building/pavillion
 士 -shì; scholar/warrior
 之 -zhī; possessive p.
@@ -514,7 +481,6 @@
 干 -gàn; to do/village/dry/stem/able
 干爹 -gāndiē; godfather
 产 -chǎn; yield/produce
-
 义 -yì; righteousness
 主义 -zhǔyì; ism
 方 -fāng; square/direction/power/just/locality
@@ -528,7 +494,6 @@
 规范化 -guīfànhuà; standardization
 普 -pǔ; general/popular
 酒 -jiǔ; alcohol
-
 毯 -tǎn; blanket/carpet
 思 -sī; think
 地毯 -dìtǎn; ground carpet
@@ -541,7 +506,6 @@
 尔 -ěr; thou/thus
 维吾尔 -wéiwú'ěr; Uyghur
 药 -yào; medicine
-
 友 -yǒu; friendly
 献 -xiàn; offer/show
 无 -wú; no (as in no charge)
@@ -554,7 +518,6 @@
 集团 -jítuán; group (two characters)
 昌 -chāng; flourishing
 爱 -ài; love
-
 瓶 -píng; bottle
 水平 -shuǐpíng; level/standard
 老百姓 -lǎobǎixìng; commoners
@@ -569,7 +532,6 @@
 需 -xū; need
 完 -wán; finish/complete
 悲 -bēi; sad (character)
-
 备 -bèi; prepare/fully/equipment
 单 -dān; single/sheet
 清 -qīng; Qing/clear/complete
@@ -585,7 +547,6 @@
 等 -děng; wait
 又 -yòu; also, both... and
 凶 -xiōng; fierce
-
 先 -xiān; first/early (character)
 先生 -xiānshēng; Sir/teacher
 制 -zhì; system/establish/overpower/manufacture
@@ -600,7 +561,6 @@
 音 -yīn; sound
 遇 -yù; meet/encounter
 因 -yīn; cause/reason/by/because of
-
 恶 -è; evil/hate
 灵 -líng; spirit/clever/quick
 助 -zhù; help
@@ -616,7 +576,6 @@
 游 -yóu; tour
 泳 -yǒng; swimming (1 char)
 游泳 yóuyǒng; swim (2 chars)
-
 去 -qù; go
 莫 -mò; don't/nothing/noone
 谈 -tán; talk/discuss
@@ -631,7 +590,6 @@
 花 -huā; flower/spend
 棉 -mián; cotton
 套 -tào; m.w. for sets/encase/jacket/bend/sheath
-
 伴 -bàn; companion
 拌 -bàn; mix
 绊 -bàn; stumble
@@ -642,7 +600,6 @@
 骂 -mǎ; curse/scold
 读 -dú; read/study
 跏 -jiā; sit cross-legged
-
 这儿来 -zhè'er lái; come here
 快 -kuài; quick
 快快 -kuài kuài; make haste
@@ -660,7 +617,6 @@
 户 -hù; household/door
 船户要多少钱 -chuánhù yào duōshǎo qián; how much money does the shipowner want
 钱 -qián; money
-
 你上哪儿 -nǐ shàng nǎ'er; where are you going?
 你雇了车没有 -nǐ gùle chē méiyǒu; have you hired your carts?
 我不能等 -wǒ bùnéng děng; I can't wait
@@ -677,7 +633,6 @@
 拿水來 -ná shuǐ lái; bring water
 开门 -kāimén; open the door
 门 -mén; door
-
 起茶 -qǐ chá; start tea
 果 -guǒ; fruit/sure enough (character)
 果子 -guǒzi; fruit
@@ -694,7 +649,6 @@
 要牛肉不要猪肉 -yào niúròu, bùyào zhūròu; I want beef, I don't want pork
 肉 -ròu; meat
 牛 -niú; cattle
-
 碗 -wǎn; bowl/cup
 拿茶碗來 -ná cháwǎn lái; bring a teacup
 管 -guǎn; control/envelop/look after/tube/canal/vessel
@@ -708,7 +662,6 @@
 我不知道 -wǒ bù zhīdào; I do not know
 担 -dān; burden/picul
 米 -mǐ; rice/meter
-
 推 -tuī; push/refuse/choose
 火车 -huǒchē; train
 念 -niàn; study/think/read
@@ -722,7 +675,6 @@
 苟 -gǒu; careless/illicit/if/but
 乃 -nǎi; then/indeed
 迁 -qiān; change
-
 匹 -pǐ; bolt of cloth/m.w. for horses
 买 -mǎi; buy
 倒 -dào; fall/inverted
@@ -740,7 +692,6 @@
 立 -lì; stand up/throne/immediate
 桥 -qiáo; bridge
 立交桥 -lìjiāoqiáo; overpass
-
 史 -shǐ; history
 历 -lì; calendar/experience/each
 展 -zhǎn; exhibit
@@ -755,7 +706,6 @@
 重 -zhòng; weight/repetition
 力 -lì; force/power/strength
 坚 -jiān; strong/stronghold/firm
-
 结 -jié; knot/bear/form
 作 -zuò; make/pretend/feel/rise/writing (not verb, just a character)
 斗 -dòu; fight
@@ -773,7 +723,6 @@
 奋 -fèn; enthusiasm/exert oneself
 题 -tí; question/inscribe/title/topic
 前 -qián; before
-
 风 -fēng; wind/style/information/scene
 统 -tǒng; unify/interconnected system
 想 -xiǎng; want/would like
@@ -789,7 +738,6 @@
 求 -qiú; beg/request
 变 -biàn; change/rebellion
 程 -chéng; journey/sequence/regulations/rule
-
 月 -yuè; month/moon
 版 -bǎn; version/edition/print
 出版 -chūbǎn; publish (books) (two chars)
@@ -805,7 +753,6 @@
 军 -jūn; military
 委 -wěi; appoint/indirect/listless/withered/throw away/actually
 委员会 -wěiyuánhuì; commission
-
 要文 -zhòngyào; important
 文章 -wénzhāng; article
 章 -zhāng; chapter/section/seal/badge/rule
@@ -826,7 +773,6 @@
 层 -céng; layer/floor
 群众 -qúnzhòng; masses (2 chars)
 基层 -jīcéng; lowest level (2 chars)
-
 去过 -qùguò; have you been to/you have been to
 寄 -jì; send/mail/attach
 寄生 -jìshēng; parasitical
@@ -839,7 +785,6 @@
 小米 -xiǎomǐ; foxtail millet
 东西 -dōngxī; thing
 稻 -dào; rice/paddy
-
 他比我好 -tā bǐ wǒ hǎo; he is better than me
 写 -xiě; write/draw
 够 -gòu; enough/reach/really
@@ -856,7 +801,6 @@
 做 -zuò; work/make/perpetrate/produce
 你能做不能做 -nǐ néng zuò bùnéng zuò; can you do it or not
 回 -huí; return/curve/maneuver/ m.w. for time
-
 几 -jǐ; how many
 卖 -mài; sell
 地方 -dìfāng; local/place
@@ -872,7 +816,6 @@
 伤 -shāng; wounded
 乖 -guāi; good/clever/perverse/shrewd
 乖乖 -guāiguāi; obediently (two chars)
-
 忘 -wàng; forget (character)
 初心 -chūxīn; original intention
 牢 -láo; prison/firm
@@ -891,7 +834,6 @@
 运 -yùn; transport/ship/luck/destiny
 抵 -dǐ; reach/resist/discharge/push/prop/equal
 间 -jiān; between/among/divide/room/apartment/measure word for rooms
-
 总统 -zǒngtǒng; president
 民众 -mínzhòng; national populace
 杜 -dù; prevent/fabricate/restrict/stop
@@ -907,7 +849,6 @@
 浩 -hào; vast/grand (character)
 瀚 -hàn; vast/ocean (character)
 浩瀚 -hàohàn; vast/ocean/boundless (2 chars)
-
 洋 -yáng; foreign/ocean
 太平 -tàipíng; pacific
 架 -jià; shelf (as in bookshelf)
@@ -929,7 +870,6 @@
 康 -kāng; peaceful/spongy
 复 -fù; resume
 康复 -kāngfù; recovery
-
 宫 -gōng; palace
 调 -diào; tune/tone/transfer/fit in perfectly
 强调 -qiángdiào; emphasized
@@ -947,7 +887,6 @@
 注 -zhù; note/inject/concentrate
 关注 -guānzhù; pay attention
 焦 -jiāo; focal
-
 访 -fǎng; visit/inquire/seek
 访谈 -fǎngtán; interview
 常规 -chángguī; conventional (2 chars)
@@ -968,7 +907,6 @@
 不管 -bùguǎn; regardless of
 封城 -fēngchéng; lockdown
 检 -jiǎn; check/examine (character)
-
 检测 -jiǎncè; test/detection (2 chars)
 还是 -háishì; or/still/nevertheless
 接种 -jiēzhǒng; vaccination
@@ -984,7 +922,6 @@
 疫情 -yìqíng; epidemic
 控 -kòng; control/accuse
 控制 -kòngzhì; controlled (2 chars)
-
 向上 -xiàngshàng; upwards
 石头 -shítou; stone (2 chars)
 抛 -pāo; throw
@@ -1001,7 +938,6 @@
 待 -dài; stay/treat/await
 所以 -suǒyǐ; therefore/consequently (2 chars)
 需求 -xūqiú; demand (2 chars)
-
 经常 -jīngcháng; often/frequently/daily (2 chars)
 出门 -chūmén; going outdoors
 本人 -běnrén; personally
@@ -1016,7 +952,6 @@
 隔 -gé; partition/separate (character)
 绝 -jué; absolutely/cut off/desparate (character)
 事情 -shìqíng; situation (2 chars)
-
 因为 -yīnwèi; because (2 chars)
 注射 -zhùshè; injection
 好像 -hǎoxiàng; as if
@@ -1028,7 +963,6 @@
 免 -miǎn; avoid/exempt/excuse/absolve
 免疫 -miǎnyì; immunization
 药品 -yàopǐn; medicine
-
 流行 -liúxíng; prevalent/epidemic
 流 -liú; flow/stream (character)
 疾 -jí; disease/hardships/quick/hate (character)
@@ -1045,3 +979,5 @@
 艺 -yì; art/talent/craft
 工艺 -gōngyì; process
 技 -jì; skill/ability (character)
+术 -shù; technique/art/skill/method (character)
+技术 -jìshù; technology/technique (2 chars)
