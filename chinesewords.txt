@@ -992,3 +992,4 @@
 灭 -miè; exterminate
 活 -huó; life/work/save/moveable
 灭活 -mièhuó; inactivated
+安全 -ānquán; safe (2 chars)
