@@ -981,3 +981,5 @@
 技 -jì; skill/ability (character)
 术 -shù; technique/art/skill/method (character)
 技术 -jìshù; technology/technique (2 chars)
+线 -xiàn; line/wire/route (character)
+路线 -lùxiàn; route/channel (2 chars)
