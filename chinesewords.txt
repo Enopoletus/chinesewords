@@ -987,3 +987,6 @@
 研制 -yánzhì; develop/manufacture (2 chars)
 采 -cǎi; collection/picking (character)
 采用 -cǎiyòng; use/application (2 chars)
+传 -chuán; pass/transmit (character)
+传统 -chuántǒng; traditional
+灭 -miè; exterminate
