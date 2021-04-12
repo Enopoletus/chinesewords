@@ -993,3 +993,5 @@
 活 -huó; life/work/save/moveable
 灭活 -mièhuó; inactivated
 安全 -ānquán; safe (2 chars)
+非 -fēi; not/negative (character)
+非常 -fēicháng; very much/extraordinarily (2 chars)
