@@ -983,3 +983,7 @@
 技术 -jìshù; technology/technique (2 chars)
 线 -xiàn; line/wire/route (character)
 路线 -lùxiàn; route/channel (2 chars)
+研 -yán; research/study (character)
+研制 -yánzhì; develop/manufacture (2 chars)
+采 -cǎi; collection/picking (character)
+采用 -cǎiyòng; use/application (2 chars)
