@@ -335,7 +335,7 @@
 攻 -gōng; attack
 以 -yǐ; with/because
 经济 -jīngjì; economic
-经 -jīng; through/endure/regular
+经 -jīng; through/endure/regular/classic
 济 -jì; aid/multitudinous
 孩 -hái; child (character)
 造 -zào; make
@@ -666,7 +666,6 @@
 火车 -huǒchē; train
 念 -niàn; study/think/read
 书 -shū; book/write
-经 -jīng; classic
 初 -chū; beginning
 性 -xìng; nature/character/sex
 善 -shàn; virtuous
@@ -1014,3 +1013,5 @@
 影 -yǐng; shadow/film/movie/photo
 响 -xiǎng; sound/loud
 影响 -yǐngxiǎng; effect
+已 -yǐ; already/afterwards/stop (character)
+已经 -yǐjīng; already (2 chars)
