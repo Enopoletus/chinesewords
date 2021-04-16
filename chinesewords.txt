@@ -1011,3 +1011,6 @@
 长久 -changjiǔ; long/long time (2 chars)
 划 -huà; draw/stroke/scratch/row 
 规划 -guīhuà; planning/program
+影 -yǐng; shadow/film/movie/photo
+响 -xiǎng; sound/loud
+影响 -yǐngxiǎng; effect
