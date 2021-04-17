@@ -596,7 +596,7 @@
 怑 -bàn; fascinate (very rare)
 跘 -bàn; sit cross-legged (very rare)
 哈 -hā; laughter
-蚂 -mǎ; ant/grasshopper/dragonfly
+蚂 -mǎ; ant/grasshopper/dragonfly (character)
 骂 -mǎ; curse/scold
 读 -dú; read/study
 跏 -jiā; sit cross-legged
@@ -1021,3 +1021,5 @@
 纸 -zhǐ; paper
 牌 -pái; cards/plate/tablet
 纸牌 -zhǐpái; Klondike
+蚁 -yǐ; ant (character)
+蚂蚁 -mǎyǐ; ant (two characters)
