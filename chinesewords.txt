@@ -1026,3 +1026,4 @@
 制造 -zhìzào; made (2 chars)
 豹 -bào; leopard
 海豹 -hǎibào; seal
+抱 -bào; hug
