@@ -1037,5 +1037,6 @@
 独 -dú; sole
 眼 -yǎn; eye
 永 -yǒng; forever (character)
-恒 -héng; permanent (character)
-永恒 -yǒnghéng; eternal
+永恒 -yǒnghéng; eternal (2 chars)
+谊 -yì; friendship (character)
+友谊 -yǒuyì; friendship (2 chars)
