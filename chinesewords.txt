@@ -1045,3 +1045,7 @@
 蜂蜜 -fēngmì; honey (2 chars)
 柚 -yòu; pomelo (character)
 柚子 -yòuzi; pomelo (2 chars)
+载 -zài; load/transport
+载人 -zàirén; manned
+航 -háng; sail/navigate
+航天 -hángtiān; spaceflight
