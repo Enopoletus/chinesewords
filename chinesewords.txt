@@ -386,7 +386,7 @@
 各 -gè; each
 地 -de; ground
 收 -shōu; recieve/stop
-分 -fēn; minute/partition
+分 -fēn; minute/partition (character)
 布 -bù; cloth/fabric/spread
 图 -tú; figure/seek
 率 -lǜ; frequency/lead/hasty
@@ -1055,3 +1055,5 @@
 扫 -sǎo; sweep
 乘 -chéng; ride/make use of
 叶 -yè; leaf
+钟 -zhōng; bell/hour
+分钟 -fēnzhōng; minute (two chars)
