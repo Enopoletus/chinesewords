@@ -1069,3 +1069,4 @@
 粉 -fěn; powder
 次 -cì; sequence
 数 -shù; number
+数量 -shùliàng; quantity
