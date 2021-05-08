@@ -1057,3 +1057,4 @@
 叶 -yè; leaf
 钟 -zhōng; bell/hour
 分钟 -fēnzhōng; minute (two chars)
+成分 -chéngfèn; ingredient
