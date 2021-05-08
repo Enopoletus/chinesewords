@@ -1059,3 +1059,6 @@
 分钟 -fēnzhōng; minute (two chars)
 成分 -chéngfèn; ingredient
 酚 -fēn; phenol
+含 -hán; contains (character)
+量 -liàng; amount (character)
+含量 -hánliàng; content
