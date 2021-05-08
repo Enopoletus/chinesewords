@@ -1070,3 +1070,4 @@
 次 -cì; sequence
 数 -shù; number
 数量 -shùliàng; quantity
+公司 -gōngsī; firm
