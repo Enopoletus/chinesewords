@@ -1062,3 +1062,6 @@
 含 -hán; contains (character)
 量 -liàng; amount (character)
 含量 -hánliàng; content
+酸 -suān; acid
+氨 -ān; ammonia
+基 -jī; base
