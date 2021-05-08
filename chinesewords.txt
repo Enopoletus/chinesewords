@@ -1068,3 +1068,4 @@
 厚 -hòu; thick
 粉 -fěn; powder
 次 -cì; sequence
+数 -shù; number
