@@ -668,7 +668,7 @@
 初 -chū; beginning
 性 -xìng; nature/character/sex
 善 -shàn; virtuous
-相 -xiāng; mutually/photographic/phrase
+相 -xiāng; mutually/photographic/phase
 远 -yuǎn; far
 苟 -gǒu; careless/illicit/if/but
 乃 -nǎi; then/indeed
@@ -1102,3 +1102,4 @@
 先锋 -xiānfēng; pioneer
 雄 -xióng; male/grand/heroic
 站 -zhàn; station/stop/stand
+聚 -jù; assemble
