@@ -1149,5 +1149,6 @@
 涉 -shè; involve
 内 -nèi; inner
 特别 -tèbié; especially (2 characters)
-欢迎 -huānyíng; welcome
-委员 -wěiyuán; member
+欢迎 -huānyíng; welcome (2 chars)
+委员 -wěiyuán; member (2 chars)
+能够 -nénggòu; can/to be able to (2 chars)
